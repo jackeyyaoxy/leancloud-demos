@@ -49,12 +49,12 @@ LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具，有Androi
 
 1. ticket-app   
 ticket-app是一个工单系统，用了大部分LeanCloud上的功能。   
-项目地址：https://github.com/avoscloud/ticket-app     
+项目地址：https://github.com/leancloud/ticket-app     
 在线网站：https://ticket.avosapps.com   
 
 1. todolist   
 todolist 是 TodoMVC 的一个 LeanCloud 实现。   
-项目地址：https://github.com/avoscloud/todo   
+项目地址：https://github.com/leancloud/todo   
 在线地址：https://todolist.avosapps.com     
 ![img](http://todomvc.com/site-assets/screenshot.png)
 
@@ -65,8 +65,8 @@ todolist 是 TodoMVC 的一个 LeanCloud 实现。
 
 1. LeanChat服务端     
 LeanChat的后台源码，有添加好友等逻辑，展示了如何用云代码作为应用后端，实现更复杂的后端逻辑。      
-项目地址：https://github.com/avoscloud/AdventureCloud       
+项目地址：https://github.com/leancloud/leanchat-cloudcode       
 
 1. 微转服务端     
-项目地址：https://github.com/avoscloud/VZ_Server
+项目地址：https://github.com/leancloud/VZ_Server
 
