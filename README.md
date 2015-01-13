@@ -6,7 +6,7 @@ LeanCloud SDK Demos 分类汇总
 
 欢迎大家推荐好的使用了 LeanCloud 开源项目，欢迎Fork、提交PR :)
 
-[内容与编辑规范](https://github.com/Trinea/android-open-project/wiki/%E5%86%85%E5%AE%B9%E6%B7%BB%E5%8A%A0%E5%8F%8A%E7%BC%96%E8%BE%91%E8%A7%84%E8%8C%83)
+[内容与编辑规范](https://github.com/leancloud/leancloud-demos/wiki/%E5%86%85%E5%AE%B9%E7%BC%96%E8%BE%91%E4%B8%8E%E8%A7%84%E8%8C%83)
 
 ## iOS
 1. 微转  
