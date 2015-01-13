@@ -4,7 +4,7 @@ LeanCloud SDK Demos 分类汇总
 
 像著名的 [android-open-project](https://github.com/Trinea/android-open-project) ，这里分类汇总了 LeanCloud平台上的示例程序和开源应用。
 
-欢迎大家推荐使用了 LeanCloud 的开源项目，欢迎Fork、提交PR :)
+欢迎大家推荐使用了 LeanCloud 的开源项目，也欢迎大家开源用 LeanCloud做的小应用、练手的应用，欢迎Fork、提交PR :) 
 
 [内容与编辑规范](https://github.com/leancloud/leancloud-demos/wiki/%E5%86%85%E5%AE%B9%E7%BC%96%E8%BE%91%E4%B8%8E%E8%A7%84%E8%8C%83)
 
