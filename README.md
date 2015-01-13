@@ -59,7 +59,7 @@ todolist 是 TodoMVC 的一个 LeanCloud 实现。
 ![img](http://todomvc.com/site-assets/screenshot.png)
 
 1. 留言板     
-留言板是一个很好的上手项目，展示了 JS SDK 的基本的用法。    
+留言板是一个很好的上手项目，展示了 JS SDK 的最基本的用法。    
 项目地址：https://github.com/killme2008/cloudcode-test      
 在线地址：https://myapp.avosapps.com      
 
@@ -67,6 +67,6 @@ todolist 是 TodoMVC 的一个 LeanCloud 实现。
 LeanChat的后台源码，有添加好友等逻辑，展示了如何用云代码作为应用后端，实现更复杂的后端逻辑。      
 项目地址：https://github.com/leancloud/leanchat-cloudcode       
 
-1. 微转服务端     
+1. 微转服务端
 项目地址：https://github.com/leancloud/VZ_Server
 
