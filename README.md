@@ -29,8 +29,6 @@ feedback-demo 是 iOS平台上的一个小程序，展示了如何快速集成Le
 1. ios-simple-demo    
 ios-simple-demo 展示了 LeanCloud 的存储、统计功能。   
 项目地址：https://github.com/leancloud/ios-simple-demo    
-截图：   
-![simple1](https://cloud.githubusercontent.com/assets/5022872/5718203/39fcbaf6-9b46-11e4-8bf4-f17fd08fc551.png)
 
 ## Android 
 
