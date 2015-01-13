@@ -13,8 +13,11 @@ LeanCloud SDK Demos 分类汇总
 微转是一个基于微博的数码设备二手交易平台，后台完全基于LeanCloud。     
 项目地址：https://github.com/leancloud/VZ       
 AppStore地址： [https://itunes.apple.com/cn/app/wei-zhuan/id768074220?mt=8](https://itunes.apple.com/cn/app/wei-zhuan/id768074220?mt=8)   
-截图：      
-![image](http://a2.mzstatic.com/us/r30/Purple6/v4/21/41/90/21419003-2730-71c0-d9bb-383191acabd1/screen568x568.jpeg)
+截图：
+<div>  
+  <img src='http://a2.mzstatic.com/us/r30/Purple6/v4/21/41/90/21419003-2730-71c0-d9bb-383191acabd1/screen568x568.jpeg' width="320px"/> 
+  <img src='http://a5.mzstatic.com/us/r30/Purple/v4/83/b6/4a/83b64ae6-ed48-45e5-957c-09a925bb40e3/screen568x568.jpeg' width="320px"/>  
+</div> 
 
 1. photo-wall     
 photo-wall 是用Swift写的一个照片墙应用，展示了基本的AVObject、AVFile、AVQuery的用法。   
