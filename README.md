@@ -30,8 +30,8 @@ feedback-demo 是 iOS平台上的一个小程序，展示了如何快速集成Le
 ios-simple-demo 展示了 LeanCloud 的存储、统计功能。   
 项目地址：https://github.com/leancloud/ios-simple-demo 
 
-1. LeanChat-iOS
-LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具。
+1. LeanChat-iOS     
+LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具。    
 项目地址：https://github.com/leancloud/leanchat-ios
 
 ## Android 
