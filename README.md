@@ -39,6 +39,11 @@ ios-simple-demo 展示了 LeanCloud 的存储、统计功能。
 LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具。    
 项目地址：https://github.com/leancloud/leanchat-ios
 
+#### 6. share     
+Share，iOS小项目，主要用了 LeanCloud上 的事件流功能。   
+项目地址：https://github.com/leancloud/share      
+
+
 ## Android 
 
 #### 1. LeanChat-Android   
@@ -69,6 +74,9 @@ android-push-demo ，推送 Demo，可学到如何快速集成 LeanCloud 的推�
 android-sns-demo，示例了 QQ 、微博授权登录。      
 项目地址：https://github.com/leancloud/android-sns-demo  
 
+#### 7. android-sms-demo
+android-sms-demo，短信验证码示例项目。
+项目地址：https://github.com/leancloud/sms-demo
 
 
 ## JavsScript
