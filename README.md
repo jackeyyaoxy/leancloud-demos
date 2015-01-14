@@ -47,25 +47,25 @@ LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具，有Androi
 截图：    
 ![img](https://raw.githubusercontent.com/lzwjava/plan/master/im361.png)     
 
-#### 1. android-simple-demo      
+#### 2. android-simple-demo      
 android-simple-demo 涉及到基本的增删改查、子类化、用户处理、文件处理，UI较简单，需要看代码学习。      
 项目地址：https://github.com/leancloud/android-simple-demo      
 
-#### 1. android-todolist     
+#### 3. android-todolist     
 android-todolist 是Android TodoList 小应用，涉及数据的增删改查、应用内搜索。    
 项目地址：https://github.com/leancloud/android-todolist   
 部分截图：    
 ![img](https://raw.githubusercontent.com/lzwjava/plan/master/android-todo-360.png)
 
-#### 1. android-keepalive      
+#### 4. android-keepalive      
 android-keepalive 是实时通信方面的Demo，有单聊群聊，相对于 LeanChat要简单一些。  
 项目地址：https://github.com/leancloud/android-keepalive      
 
-#### 1. android-push-demo      
+#### 5. android-push-demo      
 android-push-demo ，推送 Demo，可学到如何快速集成 LeanCloud 的推送服务。      
 项目地址：https://github.com/leancloud/android-push-demo      
 
-#### 1. android-sns-demo     
+#### 6. android-sns-demo     
 android-sns-demo，示例了 QQ 、微博授权登录。      
 项目地址：https://github.com/leancloud/android-sns-demo  
 
@@ -78,21 +78,21 @@ ticket-app是一个工单系统，用了大部分LeanCloud上的功能。
 项目地址：https://github.com/leancloud/ticket-app     
 在线网站：https://ticket.avosapps.com   
 
-#### 1. todolist   
+#### 2. todolist   
 todolist 是 TodoMVC 的一个 LeanCloud 实现。   
 项目地址：https://github.com/leancloud/todo   
 在线地址：https://todolist.avosapps.com     
 ![img](http://todomvc.com/site-assets/screenshot.png)
 
-#### 1. 留言板     
+#### 3. 留言板     
 留言板是一个很好的上手项目，展示了 JS SDK 的最基本的用法。    
 项目地址：https://github.com/killme2008/cloudcode-test      
 在线地址：https://myapp.avosapps.com      
 
-#### 1. LeanChat服务端     
+#### 4. LeanChat服务端     
 LeanChat的后台源码，有添加好友等逻辑，展示了如何用云代码作为应用后端，实现更复杂的后端逻辑。      
 项目地址：https://github.com/leancloud/leanchat-cloudcode       
 
-#### 1. 微转服务端
+#### 5. 微转服务端
 项目地址：https://github.com/leancloud/VZ_Server
 
