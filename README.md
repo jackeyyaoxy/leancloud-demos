@@ -8,7 +8,7 @@ LeanCloud SDK Demos 分类汇总
 
 [内容与编辑规范](https://github.com/leancloud/leancloud-demos/wiki/%E5%86%85%E5%AE%B9%E7%BC%96%E8%BE%91%E4%B8%8E%E8%A7%84%E8%8C%83)
 
-# iOS
+## iOS
 
 1. 微转  
 微转是一个基于微博的数码设备二手交易平台，后台完全基于LeanCloud。     
@@ -43,7 +43,7 @@ Share，iOS小项目，主要用了 LeanCloud上 的事件流功能。
 项目地址：https://github.com/leancloud/share      
 
 
-# Android 
+## Android 
 
 1. LeanChat-Android   
 LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具，有Android、iOS版本。后台也完全基于     LeanCloud，存储用户信息，好友关系等。     
@@ -78,7 +78,7 @@ android-sms-demo 是短信验证码示例项目。
 项目地址：https://github.com/leancloud/sms-demo     
 
 
-# JavsScript
+## JavsScript
 
 1. ticket-app   
 ticket-app是一个工单系统，用了大部分LeanCloud上的功能。   
@@ -98,13 +98,25 @@ todolist 是 TodoMVC 的一个 LeanCloud 实现。
 
 1. LeanChat服务端     
 LeanChat的后台源码，有添加好友等逻辑，展示了如何用云代码作为应用后端，实现更复杂的后端逻辑。      
-项目地址：https://github.com/leancloud/leanchat-cloudcode       
+项目地址：https://github.com/leancloud/leanchat-cloudcode           
 
-1. 微转服务端
-项目地址：https://github.com/leancloud/VZ_Server
+1. 微转服务端       
+项目地址：https://github.com/leancloud/VZ_Server      
 
-# Unity
+1.cloud-code-alipay     
+云代码接入支付宝的例子，利用云代码集成了支付宝即时到账收款的功能。    
+项目地址：https://github.com/leancloud/cloud-code-alipay    
+
+## 微信与云代码    
+1. cloud-code-weixin    
+云代码接入微信的例子，利用云代码可快速搭建微信服务号的后端。    
+项目地址：https://github.com/leancloud/cloud-code-weixin
+
+
+## Unity
 
 1. flappy-bird-with-leancloud        
 用LeanCloud Unity SDK 做的 flappy-bird。      
 项目地址：https://github.com/leancloud/unity-sdk-demos
+
+
