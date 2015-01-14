@@ -43,11 +43,17 @@ LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具。
 LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具，有Android、iOS版本。后台也完全基于     LeanCloud，存储用户信息，好友关系等。     
 项目地址：https://github.com/leancloud/leanchat-android   
 截图：    
-![img](https://raw.githubusercontent.com/lzwjava/plan/master/im361.png)
+![img](https://raw.githubusercontent.com/lzwjava/plan/master/im361.png)     
 
-1. android-simple-demo
-android-simple-demo 涉及到基本的增删改查、子类化、用户处理、文件处理，UI较简单，需要看代码学习。
-项目地址：https://github.com/leancloud/android-simple-demo
+1. android-simple-demo      
+android-simple-demo 涉及到基本的增删改查、子类化、用户处理、文件处理，UI较简单，需要看代码学习。      
+项目地址：https://github.com/leancloud/android-simple-demo      
+
+1. android-todolist     
+android-todolist 是Android TodoList 小应用，涉及数据的增删改查、应用内搜索。    
+项目地址：https://github.com/leancloud/android-todolist   
+部分截图：    
+![img](https://raw.githubusercontent.com/lzwjava/plan/master/android-todo-360.png)
 
 1. android-keepalive      
 android-keepalive 是实时通信方面的Demo，有单聊群聊，相对于 LeanChat要简单一些。  
@@ -59,7 +65,8 @@ android-push-demo ，推送 Demo，可学到如何快速集成 LeanCloud 的推�
 
 1. android-sns-demo     
 android-sns-demo，示例了 QQ 、微博授权登录。      
-项目地址：https://github.com/leancloud/android-sns-demo     
+项目地址：https://github.com/leancloud/android-sns-demo  
+
 
 
 ## JavsScript
