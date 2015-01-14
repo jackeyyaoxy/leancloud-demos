@@ -104,7 +104,7 @@ LeanChat的后台源码，有添加好友等逻辑，展示了如何用云代码
 微转服务端给微转提供了部分接口，好实现较复杂的后端逻辑。      
 项目地址：https://github.com/leancloud/VZ_Server          
 
-1.cloud-code-alipay     
+1. cloud-code-alipay     
 云代码接入支付宝的例子，利用云代码集成了支付宝即时到账收款的功能。      
 项目地址：https://github.com/leancloud/cloud-code-alipay      
 
