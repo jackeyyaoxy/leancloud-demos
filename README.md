@@ -122,6 +122,10 @@ LeanChat的后台源码，有添加好友等逻辑，展示了如何用云代码
 
 1. flappy-bird-with-leancloud        
 用LeanCloud Unity SDK 做的 flappy-bird。      
-项目地址：https://github.com/leancloud/unity-sdk-demos
+项目地址：https://github.com/leancloud/unity-sdk-demos      
 
-
+## Windows Phone      
+1. Tutorial     
+WP SDK 的教程     
+项目地址：https://github.com/leancloud/windows-phone-sdk-demos        
+  
