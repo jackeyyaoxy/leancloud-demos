@@ -38,6 +38,11 @@ iOS平台上的一个小程序，展示了如何快速集成LeanCloud的用户�
 LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具。    
 项目地址：https://github.com/leancloud/leanchat-ios
 
+1.dian-ping-shang-shu     
+用LeanCloud做的商户管理的系统，用到了文件上传下载、数据增删改查、统计功能。     
+项目地址：https://github.com/leancloud/dian-ping-shang-shu    
+
+
 1. share     
 iOS小项目，主要用了 LeanCloud上 的事件流功能。   
 项目地址：https://github.com/leancloud/share      
