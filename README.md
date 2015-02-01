@@ -99,6 +99,11 @@ TodoMVC 的一个 LeanCloud 实现，涉及数据的增删改查，前端使用 
 在线地址：https://todolist.avosapps.com     
 ![img](http://todomvc.com/site-assets/screenshot.png)
 
+1. 眼缘         
+眼缘 是 LeanCloud 的工程师在一次黑客马拉松的作品，通过匹配人脸来找到等待邂逅的对象，并且可以通过人脸来登录系统，使用了 LeanCloud 云代码和 JS SDK ，Face++ SDK 。            
+项目地址：https://github.com/leancloud/hackthon-eye         
+在线地址：http://eye.avosapps.com/        
+
 1. 留言板     
 留言板是一个很好的上手项目，展示了 JS SDK 的最基本的用法。    
 项目地址：https://github.com/killme2008/cloudcode-test      
