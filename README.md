@@ -86,7 +86,7 @@ Android TodoList 小应用，涉及数据的增删改查、应用内搜索。
 项目地址：https://github.com/lzwjava/AnyTime          
 
 
-## JavsScript
+## JavaScript
 
 1. ticket-app   
 ticket-app是一个工单系统，用了大部分LeanCloud上的功能。   
