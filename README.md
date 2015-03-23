@@ -23,7 +23,7 @@ AppStore地址： [https://itunes.apple.com/cn/app/wei-zhuan/id768074220?mt=8](h
 1. photo-wall     
 photo-wall 是用Swift写的一个照片墙应用，展示了基本的AVObject、AVFile、AVQuery的用法。   
 项目地址：https://github.com/leancloud/photo-wall     
-截图：      
+截图：          
 ![wall](https://cloud.githubusercontent.com/assets/5022872/5719710/d9e120d4-9b55-11e4-9677-01b461b24b23.png)
 
 1. feedback-demo      
@@ -32,7 +32,9 @@ iOS平台上的一个小程序，展示了如何快速集成LeanCloud的用户�
 
 1. ios-simple-demo    
 展示了 LeanCloud 的存储、统计功能。   
-项目地址：https://github.com/leancloud/ios-simple-demo 
+项目地址：https://github.com/leancloud/ios-simple-demo        
+截图:         
+![simple1](https://cloud.githubusercontent.com/assets/5022872/5718203/39fcbaf6-9b46-11e4-8bf4-f17fd08fc551.png)
 
 1. LeanChat-iOS     
 LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具。    
@@ -40,7 +42,9 @@ LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具。
 
 1. dian-ping-shang-shu     
 用LeanCloud做的商户管理的系统，用到了文件上传下载、数据增删改查、统计功能。     
-项目地址：https://github.com/leancloud/dian-ping-shang-shu    
+项目地址：https://github.com/leancloud/dian-ping-shang-shu       
+截图:           
+![b](https://cloud.githubusercontent.com/assets/5022872/5717833/a9337ba8-9b41-11e4-9446-9e2dd88a65be.png)
 
 1. share     
 iOS小项目，主要用了 LeanCloud上 的事件流功能。   
@@ -51,8 +55,8 @@ iOS小项目，主要用了 LeanCloud上 的事件流功能。
 
 1. LeanChat-Android   
 LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具，有Android、iOS版本。后台也完全基于     LeanCloud，存储用户信息，好友关系等。     
-项目地址：https://github.com/leancloud/leanchat-android   
-截图：    
+项目地址：https://github.com/leancloud/leanchat-android      
+截图：      
 ![img](https://raw.githubusercontent.com/lzwjava/plan/master/im361.png)     
 
 1. android-simple-demo      
@@ -62,7 +66,7 @@ android-simple-demo 涉及到基本的增删改查、子类化、用户处理、
 1. android-todolist     
 Android TodoList 小应用，涉及数据的增删改查、应用内搜索。    
 项目地址：https://github.com/leancloud/android-todolist   
-部分截图：    
+部分截图：      
 ![img](https://raw.githubusercontent.com/lzwjava/plan/master/android-todo-360.png)
 
 1. android-keepalive      
@@ -72,6 +76,8 @@ Android TodoList 小应用，涉及数据的增删改查、应用内搜索。
 1. android-push-demo      
 推送 Demo，可学到如何快速集成 LeanCloud 的推送服务。      
 项目地址：https://github.com/leancloud/android-push-demo      
+截图：      
+![img](https://raw.githubusercontent.com/lzwjava/plan/master/push.png)
 
 1. android-sns-demo     
 示例了 QQ 、微博授权登录。      
