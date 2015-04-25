@@ -8,6 +8,14 @@ LeanCloud SDK Demos 分类汇总
 
 [内容与编辑规范](https://github.com/leancloud/leancloud-demos/wiki/%E5%86%85%E5%AE%B9%E7%BC%96%E8%BE%91%E4%B8%8E%E8%A7%84%E8%8C%83)
 
+Demo 分类
+* [iOS](https://github.com/leancloud/leancloud-demos#ios)
+* [Android](https://github.com/leancloud/leancloud-demos#android)
+* [JavaScript](https://github.com/leancloud/leancloud-demos#javascript)
+* [微信与云代码](https://github.com/leancloud/leancloud-demos#%E5%BE%AE%E4%BF%A1%E4%B8%8E%E4%BA%91%E4%BB%A3%E7%A0%81)
+* [Unity](https://github.com/leancloud/leancloud-demos#unity)
+* [Windows Phone](https://github.com/leancloud/leancloud-demos#windows-phone)
+
 ## iOS
 
 1. 微转  
