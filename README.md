@@ -17,7 +17,7 @@ Demo 分类：[iOS](https://github.com/leancloud/leancloud-demos#ios)、[Android
 项目地址：https://github.com/leancloud/VZ       
 AppStore地址： [https://itunes.apple.com/cn/app/wei-zhuan/id768074220?mt=8](https://itunes.apple.com/cn/app/wei-zhuan/id768074220?mt=8)   
 GIF 介绍：   
-![vz3](https://cloud.githubusercontent.com/assets/5022872/7332266/c026592a-eb69-11e4-8a76-5dfe19ff4b54.gif)
+![vz4](https://cloud.githubusercontent.com/assets/5022872/7332291/dda0b15c-eb6a-11e4-901a-b1e899382511.gif)
 
 1. photo-wall     
 photo-wall 是用Swift写的一个照片墙应用，展示了基本的AVObject、AVFile、AVQuery的用法。   
