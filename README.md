@@ -17,7 +17,7 @@ Demo 分类：[iOS](https://github.com/leancloud/leancloud-demos#ios)、[Android
 项目地址：https://github.com/leancloud/VZ       
 AppStore地址： [https://itunes.apple.com/cn/app/wei-zhuan/id768074220?mt=8](https://itunes.apple.com/cn/app/wei-zhuan/id768074220?mt=8)   
 GIF 介绍：   
-![vz4](https://cloud.githubusercontent.com/assets/5022872/7332291/dda0b15c-eb6a-11e4-901a-b1e899382511.gif)
+![vz6](https://cloud.githubusercontent.com/assets/5022872/7384112/500e7b70-ee5e-11e4-943e-06ce38951092.gif)
 
 1. LZAlbum   
 LZAlbum 是 基于 LeanCloud 的朋友圈。  
