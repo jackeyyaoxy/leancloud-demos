@@ -19,6 +19,12 @@ AppStore地址： [https://itunes.apple.com/cn/app/wei-zhuan/id768074220?mt=8](h
 GIF 介绍：   
 ![vz4](https://cloud.githubusercontent.com/assets/5022872/7332291/dda0b15c-eb6a-11e4-901a-b1e899382511.gif)
 
+1. LZAlbum   
+LZAlbum 是 基于 LeanCloud 的朋友圈。  
+项目地址：https://github.com/lzwjava/LZAlbum  
+GIF 介绍：  
+![lzalbum](https://cloud.githubusercontent.com/assets/5022872/7377560/c02f5838-ee19-11e4-8817-df41c63311d0.gif)
+
 1. photo-wall     
 photo-wall 是用Swift写的一个照片墙应用，展示了基本的AVObject、AVFile、AVQuery的用法。   
 项目地址：https://github.com/leancloud/photo-wall     
