@@ -86,6 +86,10 @@ Android TodoList 小应用，涉及数据的增删改查、应用内搜索。
 部分截图：      
 ![img](https://raw.githubusercontent.com/lzwjava/plan/master/android-todo-360.png)
 
+1. WeShare  
+此项目是用 LeanCloud [事件流系统](https://leancloud.cn/docs/status_system.html)组件做的类似朋友圈的分享小应用。具有时间线、发文字发图、点赞、关注的模块或功能。  
+项目地址：https://github.com/lzwjava/WeShare
+
 1. android-keepalive      
 实时通信方面的Demo，有单聊群聊，相对于 LeanChat要简单一些。  
 项目地址：https://github.com/leancloud/android-keepalive      
