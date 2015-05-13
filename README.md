@@ -31,10 +31,14 @@ LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具。
 
 1. UUChatTableView+LeanCloud IM SDK  
 此项目在 ZhipingYang 大牛开发的 [UUChatTableView](https://github.com/ZhipingYang/UUChatTableView) 的基础上加入了 LeanCloud IM SDK ，精美的UI 界面搭配了优雅的 IM 服务。在原项目加入少量代码，即能聊起来。LeanCloud IM SDK 能轻易集成到应用中，因为它只用 id 就跑通了整个聊天系统，与用户系统完全解耦。  
+项目地址：https://github.com/lzwjava/UUChatTableView  
+截图：  
 ![screen](https://cloud.githubusercontent.com/assets/5022872/7604267/4973b75c-f972-11e4-8e56-22509f995374.png)
 
 1. FreeChat  
 同样是聊天应用，不过功能完整许多，有最近对话、加入、踢人、开放对话(足球直播时很多人加入的对话，有别于普通的群聊)等功能示例。  
+项目地址：https://github.com/jwfing/FreeChat  
+截图：  
 ![](https://github.com/jwfing/FreeChat/blob/master/images/%E8%81%8A%E5%A4%A9%E5%AE%A4%E8%AF%A6%E6%83%85.png)  
 
 1. photo-wall     
