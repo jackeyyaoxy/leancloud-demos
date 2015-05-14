@@ -29,6 +29,10 @@ GIF 介绍：
 LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具。    
 项目地址：https://github.com/leancloud/leanchat-ios
 
+1. SimpleChat-iOS  
+此项目是为了让大家能快速上手熟悉 LeanCloud IM SDK。之前推出的 LeanChat ，我们发现其中含杂了许多 UI 代码，不利于大家学习上手。因此我们推出了 SimpleChat，只有最精简的 UI、最核心的 SDK 用法。
+项目地址：https://github.com/leancloud/simple-chat-ios  
+
 1. UUChatTableView+LeanCloud IM SDK  
 此项目在 ZhipingYang 大牛开发的 [UUChatTableView](https://github.com/ZhipingYang/UUChatTableView) 的基础上加入了 LeanCloud IM SDK ，精美的UI 界面搭配了优雅的 IM 服务。在原项目加入少量代码，即能聊起来。LeanCloud IM SDK 能轻易集成到应用中，因为它只用 id 就跑通了整个聊天系统，与用户系统完全解耦。  
 项目地址：https://github.com/lzwjava/UUChatTableView  
@@ -78,7 +82,11 @@ LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具，有Androi
 
 1. android-simple-demo      
 android-simple-demo 涉及到基本的增删改查、子类化、用户处理、文件处理，UI较简单，需要看代码学习。      
-项目地址：https://github.com/leancloud/android-simple-demo      
+项目地址：https://github.com/leancloud/android-simple-demo    
+
+1. SimpleChat-Androd  
+此项目是为了让大家能快速上手熟悉 LeanCloud IM SDK。之前推出的 LeanChat ，我们发现其中含杂了许多 UI 代码，不利于大家学习上手。因此我们推出了 SimpleChat，只有最精简的 UI、最核心的 SDK 用法。
+项目地址：https://github.com/leancloud/simple-chat-android  
 
 1. android-todolist     
 Android TodoList 小应用，涉及数据的增删改查、应用内搜索。    
