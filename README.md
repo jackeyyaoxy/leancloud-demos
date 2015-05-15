@@ -33,6 +33,12 @@ LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具。
 此项目是为了让大家能快速上手熟悉 LeanCloud IM SDK。之前推出的 LeanChat ，我们发现其中含杂了许多 UI 代码，不利于大家学习上手。因此我们推出了 SimpleChat，只有最精简的 UI、最核心的 SDK 用法。  
 项目地址：https://github.com/leancloud/simple-chat-ios  
 
+1. NextChat  
+NextChat = [JSQMessageViewController](https://github.com/jessesquires/JSQMessagesViewController) + LeanCloud IM SDK。JSQMessageViewController 大概是最流行的开源的 IM 界面框架了。 试试新的 UI 吧。
+项目地址：https://github.com/leancloud/NextChat  
+截图：  
+![ios simulator screen shot 2015 5 15 11 06 21](https://cloud.githubusercontent.com/assets/5022872/7646249/79a64f52-faf3-11e4-8334-85d6585edf01.png)
+
 1. UUChatTableView+LeanCloud IM SDK  
 此项目在 ZhipingYang 大牛开发的 [UUChatTableView](https://github.com/ZhipingYang/UUChatTableView) 的基础上加入了 LeanCloud IM SDK ，精美的UI 界面搭配了优雅的 IM 服务。在原项目加入少量代码，即能聊起来。LeanCloud IM SDK 能轻易集成到应用中，因为它只用 id 就跑通了整个聊天系统，与用户系统完全解耦。  
 项目地址：https://github.com/lzwjava/UUChatTableView  
