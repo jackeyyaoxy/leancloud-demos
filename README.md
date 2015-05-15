@@ -16,14 +16,14 @@ Demo 分类：[iOS](https://github.com/leancloud/leancloud-demos#ios)、[Android
 微转是一个基于微博的数码设备二手交易平台，后台完全基于LeanCloud。     
 项目地址：https://github.com/leancloud/VZ       
 AppStore地址： [https://itunes.apple.com/cn/app/wei-zhuan/id768074220?mt=8](https://itunes.apple.com/cn/app/wei-zhuan/id768074220?mt=8)   
-GIF 介绍：   
-![vz6](https://cloud.githubusercontent.com/assets/5022872/7384112/500e7b70-ee5e-11e4-943e-06ce38951092.gif)
+截图：   
+![image](http://a5.mzstatic.com/us/r30/Purple/v4/83/b6/4a/83b64ae6-ed48-45e5-957c-09a925bb40e3/screen568x568.jpeg)
 
 1. LZAlbum   
 LZAlbum 是 基于 LeanCloud 的朋友圈。  
 项目地址：https://github.com/lzwjava/LZAlbum  
-GIF 介绍：  
-![lzalbum](https://cloud.githubusercontent.com/assets/5022872/7377560/c02f5838-ee19-11e4-8817-df41c63311d0.gif)
+截图：  
+![lzalbum](https://cloud.githubusercontent.com/assets/5022872/7646374/0bffe1a0-faf5-11e4-8f56-f0006a3425a2.jpg)
 
 1. LeanChat-iOS     
 LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具。    
