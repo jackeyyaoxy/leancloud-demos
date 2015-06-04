@@ -73,6 +73,9 @@ iOS平台上的一个小程序，展示了如何快速集成LeanCloud的用户�
 截图:           
 ![b](https://cloud.githubusercontent.com/assets/5022872/5717833/a9337ba8-9b41-11e4-9446-9e2dd88a65be.png)
 
+1. Share  
+事件流系统的 Demo，有关注、发状态、时间线等功能。  
+项目地址：https://github.com/lzwjava/Share  
 
 ## Android 
 
