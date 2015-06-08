@@ -90,7 +90,7 @@ android-simple-demo 涉及到基本的增删改查、子类化、用户处理、
 项目地址：https://github.com/leancloud/android-simple-demo    
 
 1. LeanMessageDemo  
-此项目是为了让大家能快速上手熟悉 LeanCloud IM SDK。之前推出的 LeanChat ，我们发现其中含杂了许多 UI 代码，不利于大家学习上手。因此我们推出了 SimpleChat，只有最精简的 UI、最核心的 SDK 用法。  
+此项目是为了让大家能快速上手熟悉 LeanCloud IM SDK。之前推出的 LeanChat ，我们发现其中含杂了许多 UI 代码，不利于大家学习上手。因此我们推出了 LeanMessageDemo ，只有最精简的 UI、最核心的 SDK 用法。  
 项目地址：https://github.com/leancloud/LeanMessage-Demo  
 
 1. android-todolist     
