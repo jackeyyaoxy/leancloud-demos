@@ -29,9 +29,9 @@ LZAlbum 是 基于 LeanCloud 的朋友圈。
 LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具。    
 项目地址：https://github.com/leancloud/leanchat-ios
 
-1. SimpleChat-iOS  
-此项目是为了让大家能快速上手熟悉 LeanCloud IM SDK。之前推出的 LeanChat ，我们发现其中含杂了许多 UI 代码，不利于大家学习上手。因此我们推出了 SimpleChat，只有最精简的 UI、最核心的 SDK 用法。  
-项目地址：https://github.com/leancloud/simple-chat-ios  
+1. LeanMessageDemo-iOS  
+此项目是为了让大家能快速上手熟悉 LeanCloud IM SDK。之前推出的 LeanChat ，我们发现其中含杂了许多 UI 代码，不利于大家学习上手。因此我们推出了 LeanMessageDemo，只有最精简的 UI、最核心的 SDK 用法。  
+项目地址：https://github.com/leancloud/LeanMessage-Demo
 
 1. NextChat  
 NextChat = [JSQMessageViewController](https://github.com/jessesquires/JSQMessagesViewController) + LeanCloud IM SDK。JSQMessageViewController 大概是最流行的开源的 IM 界面框架了。 试试新的 UI 吧。  
@@ -89,9 +89,9 @@ LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具，有Androi
 android-simple-demo 涉及到基本的增删改查、子类化、用户处理、文件处理，UI较简单，需要看代码学习。      
 项目地址：https://github.com/leancloud/android-simple-demo    
 
-1. SimpleChat-Androd  
+1. LeanMessageDemo  
 此项目是为了让大家能快速上手熟悉 LeanCloud IM SDK。之前推出的 LeanChat ，我们发现其中含杂了许多 UI 代码，不利于大家学习上手。因此我们推出了 SimpleChat，只有最精简的 UI、最核心的 SDK 用法。  
-项目地址：https://github.com/leancloud/simple-chat-android  
+项目地址：https://github.com/leancloud/LeanMessage-Demo  
 
 1. android-todolist     
 Android TodoList 小应用，涉及数据的增删改查、应用内搜索。    
