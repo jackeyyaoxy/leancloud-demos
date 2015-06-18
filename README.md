@@ -8,12 +8,12 @@ LeanCloud SDK Demos 分类汇总
 
 [内容与编辑规范](https://github.com/leancloud/leancloud-demos/wiki/%E5%86%85%E5%AE%B9%E7%BC%96%E8%BE%91%E4%B8%8E%E8%A7%84%E8%8C%83)
 
+对于下面的项目，若想下载到本地，请直接点击 Github 上的`Download Zip`，如图所示，这样只下载最新版本，而不含杂提交历史。如果是 `git clone`，则可能非常慢，因为含杂很大的提交历史，而且未经 zip 压缩。某次测试两者是 1.5M:40M。  
+![qq20150618-2 2x](https://cloud.githubusercontent.com/assets/5022872/8223520/4c25415a-15ab-11e5-912d-b5dab916ce86.png)
+
+
 Demo 分类：[iOS](https://github.com/leancloud/leancloud-demos#ios)、[Android](https://github.com/leancloud/leancloud-demos#android)、[JavaScript](https://github.com/leancloud/leancloud-demos#javascript)、[微信与云代码](https://github.com/leancloud/leancloud-demos#%E5%BE%AE%E4%BF%A1%E4%B8%8E%E4%BA%91%E4%BB%A3%E7%A0%81)、[Unity](https://github.com/leancloud/leancloud-demos#unity)、[Windows Phone](https://github.com/leancloud/leancloud-demos#windows-phone)
 
-#### 下载
-对于下面的项目，若想下载到本地，请直接点击 Github 上的`Download Zip`，如图所示，这样只下载最新版本，而不含杂提交历史。如果是 `git clone`，则可能非常慢，因为含杂很大的提交历史，而且未经 zip 压缩。某次测试两者是 1.5M:40M。
-
-![qq20150618-2 2x](https://cloud.githubusercontent.com/assets/5022872/8223520/4c25415a-15ab-11e5-912d-b5dab916ce86.png)
 
 ## iOS
 
