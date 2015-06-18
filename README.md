@@ -8,7 +8,7 @@ LeanCloud SDK Demos 分类汇总
 
 [内容与编辑规范](https://github.com/leancloud/leancloud-demos/wiki/%E5%86%85%E5%AE%B9%E7%BC%96%E8%BE%91%E4%B8%8E%E8%A7%84%E8%8C%83)
 
-对于下面的项目，若想下载到本地，请直接点击 Github 上的`Download Zip`，如图所示，这样只下载最新版本，而不含杂提交历史。如果是 `git clone`，则可能非常慢，因为含杂很大的提交历史，而且未经 zip 压缩。某次测试两者是 1.5M:40M。  
+对于下面的项目，若想下载到本地，请直接点击 Github 上的`Download Zip`，如图所示，这样只下载最新版本。如果是 `git clone`，则可能非常慢，因为含杂很大的提交历史。某次测试两者是 1.5M:40M。  
 ![qq20150618-2 2x](https://cloud.githubusercontent.com/assets/5022872/8223520/4c25415a-15ab-11e5-912d-b5dab916ce86.png)
 
 对于 iOS 上的 CocoaPods 项目，请尽量试用 `pod install --no-repo-update` ，这样会大大加快 `pod install` 的速度。
