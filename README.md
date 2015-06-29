@@ -92,7 +92,7 @@ LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具，有Androi
 截图：      
 ![img](https://raw.githubusercontent.com/lzwjava/plan/master/im361.png)     
 
-1. AnimeTaste
+1. AnimeTaste   
 AnimeTaste 是国内首个关注独立动画的网站。Android 移动版让人随时随地能观看动画。该应用曾获得[豌豆荚设计奖](http://www.wandoujia.com/award/blog/com.zhan_dui.animetaste)。其中，使用了 LeanCloud 来存储评论和用户反馈，可在 Terminal 中 `ack AVObject` 来找到相应的代码。    
 项目地址：https://github.com/daimajia/AnimeTaste    
 截图：    
