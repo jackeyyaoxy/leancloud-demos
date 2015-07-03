@@ -68,8 +68,8 @@ photo-wall 是用Swift写的一个照片墙应用，展示了基本的AVObject�
 iOS平台上的一个小程序，展示了如何快速集成LeanCloud的用户反馈功能   
 项目地址：https://github.com/leancloud/feedback-demo    
 
-1. ios-simple-demo    
-展示了 LeanCloud 的存储、统计功能。   
+1. LeanStorage-iOS-Demo    
+展示了 LeanCloud 的存储功能。   
 项目地址：https://github.com/leancloud/ios-simple-demo        
 截图:         
 ![simple1](https://cloud.githubusercontent.com/assets/5022872/5718203/39fcbaf6-9b46-11e4-8bf4-f17fd08fc551.png)
@@ -77,8 +77,6 @@ iOS平台上的一个小程序，展示了如何快速集成LeanCloud的用户�
 1. dian-ping-shang-shu     
 用LeanCloud做的商户管理的系统，用到了文件上传下载、数据增删改查、统计功能。     
 项目地址：https://github.com/leancloud/dian-ping-shang-shu       
-截图:           
-![b](https://cloud.githubusercontent.com/assets/5022872/5717833/a9337ba8-9b41-11e4-9446-9e2dd88a65be.png)
 
 1. Share  
 事件流系统的 Demo，有关注、发状态、时间线等功能。  
