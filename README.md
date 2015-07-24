@@ -19,9 +19,8 @@ Demo 分类：[iOS](https://github.com/leancloud/leancloud-demos#ios)、[Android
 
 ## iOS
 
-1. 微转   
+1. 微转 ![](http://gh-btns.cjwirth.com/stars/leancloud/VZ)    
 微转是一个基于微博的数码设备二手交易平台，后台完全基于LeanCloud。     
-star：![](http://gh-btns.cjwirth.com/stars/leancloud/VZ)
 项目地址：https://github.com/leancloud/VZ     
 AppStore地址： [https://itunes.apple.com/cn/app/wei-zhuan/id768074220?mt=8](https://itunes.apple.com/cn/app/wei-zhuan/id768074220?mt=8)   
 截图：   
