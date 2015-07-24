@@ -55,8 +55,6 @@ NextChat = [JSQMessageViewController](https://github.com/jessesquires/JSQMessage
 ![](http://gh-btns.cjwirth.com/stars/lzwjava/UUChatTableView)   
 此项目在 ZhipingYang 大牛开发的 [UUChatTableView](https://github.com/ZhipingYang/UUChatTableView) 的基础上加入了 LeanCloud IM SDK ，精美的UI 界面搭配了优雅的 IM 服务。在原项目加入少量代码，即能聊起来。LeanCloud IM SDK 能轻易集成到应用中，因为它只用 id 就跑通了整个聊天系统，与用户系统完全解耦。  
 项目地址：https://github.com/lzwjava/UUChatTableView  
-截图：  
-![screen](https://cloud.githubusercontent.com/assets/5022872/7604267/4973b75c-f972-11e4-8e56-22509f995374.png)
 
 1. FreeChat   
 ![](http://gh-btns.cjwirth.com/stars/jwfing/FreeChat)     
