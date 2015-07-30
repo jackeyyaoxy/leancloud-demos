@@ -63,13 +63,6 @@ NextChat = [JSQMessageViewController](https://github.com/jessesquires/JSQMessage
 截图：  
 ![](https://github.com/jwfing/FreeChat/blob/master/images/%E8%81%8A%E5%A4%A9%E5%AE%A4%E8%AF%A6%E6%83%85.png)  
 
-1. photo-wall   
-![](http://gh-btns.cjwirth.com/stars/leancloud/photo-wall)    
-photo-wall 是用Swift写的一个照片墙应用，展示了基本的AVObject、AVFile、AVQuery的用法。   
-项目地址：https://github.com/leancloud/photo-wall     
-截图：          
-![wall](https://cloud.githubusercontent.com/assets/5022872/5719710/d9e120d4-9b55-11e4-9677-01b461b24b23.png)
-
 1. feedback-demo    
 ![](http://gh-btns.cjwirth.com/stars/leancloud/feedback-demo)   
 iOS平台上的一个小程序，展示了如何快速集成LeanCloud的用户反馈功能   
@@ -91,6 +84,23 @@ iOS平台上的一个小程序，展示了如何快速集成LeanCloud的用户�
 ![](http://gh-btns.cjwirth.com/stars/lzwjava/Share)   
 事件流系统的 Demo，有关注、发状态、时间线等功能。  
 项目地址：https://github.com/lzwjava/Share  
+
+## Swift  
+
+1. WukongSNS  
+WukongSNS 是开发者 pgbo 做的一个类似朋友圈的 swift 项目，用了 AVObject Array 来实现点赞、评论，AVOSCloudIM 框架来实现通知提醒功能。非常推荐。
+项目地址：https://github.com/pgbo/WukongSNS
+项目截图：  
+![wukong400](https://cloud.githubusercontent.com/assets/5022872/8989779/d819ae62-3720-11e5-8483-f0c80693c4b9.png)
+
+
+
+1. photo-wall   
+![](http://gh-btns.cjwirth.com/stars/leancloud/photo-wall)    
+photo-wall 是用Swift写的一个照片墙应用，展示了基本的AVObject、AVFile、AVQuery的用法。   
+项目地址：https://github.com/leancloud/photo-wall     
+截图：          
+![wall](https://cloud.githubusercontent.com/assets/5022872/5719710/d9e120d4-9b55-11e4-9677-01b461b24b23.png)
 
 ## Android 
 
