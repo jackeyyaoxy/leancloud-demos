@@ -87,13 +87,11 @@ iOS平台上的一个小程序，展示了如何快速集成LeanCloud的用户�
 
 ## Swift  
 
-1. WukongSNS  
-WukongSNS 是开发者 pgbo 做的一个类似朋友圈的 swift 项目，用了 AVObject Array 来实现点赞、评论，AVOSCloudIM 框架来实现通知提醒功能。非常推荐。
-项目地址：https://github.com/pgbo/WukongSNS
+1. WukongSNS    
+WukongSNS 是开发者 pgbo 做的一个类似朋友圈的 swift 项目，用了 AVObject Array 来实现点赞、评论，AVOSCloudIM 框架来实现通知提醒功能。非常推荐。    
+项目地址：https://github.com/pgbo/WukongSNS   
 项目截图：  
 ![wukong400](https://cloud.githubusercontent.com/assets/5022872/8989779/d819ae62-3720-11e5-8483-f0c80693c4b9.png)
-
-
 
 1. photo-wall   
 ![](http://gh-btns.cjwirth.com/stars/leancloud/photo-wall)    
