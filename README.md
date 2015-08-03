@@ -28,7 +28,7 @@ AppStore地址： [https://itunes.apple.com/cn/app/wei-zhuan/id768074220?mt=8](h
 ![image](http://a5.mzstatic.com/us/r30/Purple/v4/83/b6/4a/83b64ae6-ed48-45e5-957c-09a925bb40e3/screen568x568.jpeg)
 
 1. LZAlbum    
-![](http://gh-btns.cjwirth.com/stars/lzwjava/LZAlbum)   
+![](http://gh-btns.avosapps.com//stars/lzwjava/LZAlbum)   
 LZAlbum 是 基于 LeanCloud 的朋友圈。  
 项目地址：https://github.com/lzwjava/LZAlbum  
 截图：  
