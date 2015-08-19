@@ -61,12 +61,7 @@ NextChat = [JSQMessageViewController](https://github.com/jessesquires/JSQMessage
 同样是聊天应用，不过功能完整许多，有最近对话、加入、踢人、开放对话(足球直播时很多人加入的对话，有别于普通的群聊)等功能示例。  
 项目地址：https://github.com/jwfing/FreeChat  
 截图：  
-![](https://github.com/jwfing/FreeChat/blob/master/images/%E8%81%8A%E5%A4%A9%E5%AE%A4%E8%AF%A6%E6%83%85.png)  
-
-1. feedback-demo    
-![](https://img.shields.io/github/stars/leancloud/feedback-demo.svg?style=social)   
-iOS平台上的一个小程序，展示了如何快速集成LeanCloud的用户反馈功能   
-项目地址：https://github.com/leancloud/feedback-demo    
+![](https://github.com/jwfing/FreeChat/blob/master/images/%E8%81%8A%E5%A4%A9%E5%AE%A4%E8%AF%A6%E6%83%85.png)   
 
 1. LeanStorage-iOS-Demo   
 ![](https://img.shields.io/github/stars/leancloud/LeanStorage-Demo.svg?style=social)  
