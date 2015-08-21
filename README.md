@@ -200,7 +200,7 @@ LeanChat的后台源码，有添加好友等逻辑，展示了如何用云代码
 项目地址：https://github.com/leancloud/VZ_Server
 
 1. skd-demo-engine	
-![](https://img.shields.io/github/stars/leancloud/sdk-demo-engine.svg?style=social)
+![](https://img.shields.io/github/stars/leancloud/sdk-demo-engine.svg?style=social)		
 此项目展示了 SDK 与云引擎之间的数据交互。可以学到：如何传递 AVObject 到客户端？如何用 beforeSave Hook？如何搭一个简单的 LeanEngine 框架？
 项目地址：https://github.com/leancloud/sdk-demo-engine
 
