@@ -189,22 +189,26 @@ TodoMVC 的一个 LeanCloud 实现，涉及数据的增删改查，前端使用 
 LeanChat的后台源码，有添加好友等逻辑，展示了如何用云代码作为应用后端，实现更复杂的后端逻辑。      
 项目地址：https://github.com/leancloud/leanchat-cloudcode           
 
-1. 微转服务端   
-![](https://img.shields.io/github/stars/leancloud/VZ_Server.svg?style=social)    
-微转服务端给微转提供了部分接口，好实现较复杂的后端逻辑。      
-项目地址：https://github.com/leancloud/VZ_Server          
-
 1. cloud-code-alipay    
 ![](https://img.shields.io/github/stars/leancloud/cloud-code-alipay.svg?style=social)   
 云代码接入支付宝的例子，利用云代码集成了支付宝即时到账收款的功能。      
-项目地址：https://github.com/leancloud/cloud-code-alipay      
+项目地址：https://github.com/leancloud/cloud-code-alipay     
+
+1. 微转服务端   
+![](https://img.shields.io/github/stars/leancloud/VZ_Server.svg?style=social)    
+微转服务端给微转提供了部分接口，好实现较复杂的后端逻辑。      
+项目地址：https://github.com/leancloud/VZ_Server
+
+1. skd-demo-engine	
+![](https://img.shields.io/github/stars/leancloud/sdk-demo-engine.svg?style=social)
+此项目展示了 SDK 与云引擎之间的数据交互。可以学到：如何传递 AVObject 到客户端？如何用 beforeSave Hook？如何搭一个简单的 LeanEngine 框架？
+项目地址：https://github.com/leancloud/sdk-demo-engine
 
 ## 微信与云代码    
 1. cloud-code-weixin    
 ![](https://img.shields.io/github/stars/leancloud/cloud-code-weixin.svg?style=social)     
 云代码接入微信的例子，利用云代码可快速搭建微信服务号的后端。      
-项目地址：https://github.com/leancloud/cloud-code-weixin        
-
+项目地址：https://github.com/leancloud/cloud-code-weixin 
 
 ## Unity
 
