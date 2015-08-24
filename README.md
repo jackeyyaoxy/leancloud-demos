@@ -34,6 +34,13 @@ LZAlbum 是 基于 LeanCloud 的朋友圈。
 截图：  
 ![lzalbum](https://cloud.githubusercontent.com/assets/5022872/7646374/0bffe1a0-faf5-11e4-8f56-f0006a3425a2.jpg)
 
+1. LeanStorage-iOS-Demo   
+![](https://img.shields.io/github/stars/leancloud/LeanStorage-Demo.svg?style=social)  
+展示了 LeanCloud 的存储功能。   
+项目地址：https://github.com/leancloud/LeanStorage-Demo      
+截图:         
+![simple1](https://cloud.githubusercontent.com/assets/5022872/5718203/39fcbaf6-9b46-11e4-8bf4-f17fd08fc551.png)
+
 1. LeanChat-iOS     
 ![](https://img.shields.io/github/stars/leancloud/leanchat-ios.svg?style=social)  
 LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具。    
@@ -62,13 +69,6 @@ NextChat = [JSQMessageViewController](https://github.com/jessesquires/JSQMessage
 项目地址：https://github.com/jwfing/FreeChat  
 截图：  
 ![](https://github.com/jwfing/FreeChat/blob/master/images/%E8%81%8A%E5%A4%A9%E5%AE%A4%E8%AF%A6%E6%83%85.png)   
-
-1. LeanStorage-iOS-Demo   
-![](https://img.shields.io/github/stars/leancloud/LeanStorage-Demo.svg?style=social)  
-展示了 LeanCloud 的存储功能。   
-项目地址：https://github.com/leancloud/LeanStorage-Demo      
-截图:         
-![simple1](https://cloud.githubusercontent.com/assets/5022872/5718203/39fcbaf6-9b46-11e4-8bf4-f17fd08fc551.png)
 
 1. dian-ping-shang-shu  
 ![](https://img.shields.io/github/stars/leancloud/dian-ping-shang-shu.svg?style=social)      
