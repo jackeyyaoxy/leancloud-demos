@@ -68,7 +68,7 @@ NextChat = [JSQMessageViewController](https://github.com/jessesquires/JSQMessage
 展示了 LeanCloud 的存储功能。   
 项目地址：https://github.com/leancloud/LeanStorage-Demo      
 截图:         
-![simple1](https://cloud.githubusercontent.com/assets/5022872/5718203/39fcbaf6-9b46-11e4-8bf4-f17fd08fc551.png)
+![demo2](https://cloud.githubusercontent.com/assets/5022872/7852211/71f4ac66-052c-11e5-868a-b98b34867a06.png)
 
 1. dian-ping-shang-shu  
 ![](https://img.shields.io/github/stars/leancloud/dian-ping-shang-shu.svg?style=social)      
