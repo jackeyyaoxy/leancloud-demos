@@ -39,7 +39,7 @@ LZAlbum 是 基于 LeanCloud 的朋友圈。
 展示了 LeanCloud 的存储功能。   
 项目地址：https://github.com/leancloud/LeanStorageDemo-iOS      
 截图:         
-![demo2](https://cloud.githubusercontent.com/assets/5022872/7852211/71f4ac66-052c-11e5-868a-b98b34867a06.png)
+![file4](https://cloud.githubusercontent.com/assets/5022872/9400930/482426f8-47fa-11e5-9cad-4763975802a1.png)
 
 1. LeanChat-iOS     
 ![](https://img.shields.io/github/stars/leancloud/leanchat-ios.svg?style=social)  
@@ -99,7 +99,7 @@ photo-wall 是用Swift写的一个照片墙应用，展示了基本的AVObject�
 ## Android 
 
 1. LeanStorageDemo-Android    
-![](https://img.shields.io/github/stars/leancloud/LeanStorage-Demo.svg?style=social)     
+![](https://img.shields.io/github/stars/leancloud/LeanStorageDemo-Android.svg?style=social)     
 LeanStorageDemo-Android 涉及到基本的增删改查、子类化、用户处理、文件处理，很全面，非常推荐。      
 项目地址：https://github.com/leancloud/LeanStorageDemo-Android  
 截图：  
