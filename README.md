@@ -34,10 +34,10 @@ LZAlbum 是 基于 LeanCloud 的朋友圈。
 截图：  
 ![lzalbum](https://cloud.githubusercontent.com/assets/5022872/7646374/0bffe1a0-faf5-11e4-8f56-f0006a3425a2.jpg)
 
-1. LeanStorage-iOS-Demo   
-![](https://img.shields.io/github/stars/leancloud/LeanStorage-Demo.svg?style=social)  
+1. LeanStorageDemo-iOS		
+![](https://img.shields.io/github/stars/leancloud/LeanStorageDemo-iOS.svg?style=social)  
 展示了 LeanCloud 的存储功能。   
-项目地址：https://github.com/leancloud/LeanStorage-Demo      
+项目地址：https://github.com/leancloud/LeanStorageDemo-iOS      
 截图:         
 ![demo2](https://cloud.githubusercontent.com/assets/5022872/7852211/71f4ac66-052c-11e5-868a-b98b34867a06.png)
 
