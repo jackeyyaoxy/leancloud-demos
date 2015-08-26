@@ -98,6 +98,13 @@ photo-wall 是用Swift写的一个照片墙应用，展示了基本的AVObject�
 
 ## Android 
 
+1. LeanStorageDemo-Android    
+![](https://img.shields.io/github/stars/leancloud/LeanStorage-Demo.svg?style=social)     
+LeanStorageDemo-Android 涉及到基本的增删改查、子类化、用户处理、文件处理，很全面，非常推荐。      
+项目地址：https://github.com/leancloud/LeanStorageDemo-Android  
+截图：  
+![device-2015-08-26-120002](https://cloud.githubusercontent.com/assets/5022872/9485437/92c4768c-4beb-11e5-8190-c74e586c2867.png)
+
 1. LeanChat-Android   
 ![](https://img.shields.io/github/stars/leancloud/leanchat-android.svg?style=social)    
 LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具，有Android、iOS版本。后台也完全基于     LeanCloud，存储用户信息，好友关系等。     
@@ -111,11 +118,6 @@ AnimeTaste 是国内首个关注独立动画的网站。Android 移动版让人�
 项目地址：https://github.com/daimajia/AnimeTaste    
 截图：    
 ![AnimeTaste](http://ww2.sinaimg.cn/mw690/610dc034jw1e885o9kjgzj208c0b40ty.jpg)   
-
-1. android-simple-demo    
-![](https://img.shields.io/github/stars/leancloud/LeanStorage-Demo.svg?style=social)     
-android-simple-demo 涉及到基本的增删改查、子类化、用户处理、文件处理，UI较简单，需要看代码学习。      
-项目地址：https://github.com/leancloud/LeanStorageDemo-Android 
 
 1. LeanMessageDemo    
 ![](https://img.shields.io/github/stars/leancloud/LeanMessage-Demo.svg?style=social)    
