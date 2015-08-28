@@ -140,8 +140,6 @@ Android TodoList 小应用，涉及数据的增删改查、应用内搜索。
 ![](https://img.shields.io/github/stars/leancloud/android-push-demo.svg?style=social)       
 推送 Demo，可学到如何快速集成 LeanCloud 的推送服务。      
 项目地址：https://github.com/leancloud/android-push-demo      
-截图：      
-![img](https://raw.githubusercontent.com/lzwjava/plan/master/push.png)
 
 1. android-sns-demo   
 ![](https://img.shields.io/github/stars/leancloud/android-sns-demo.svg?style=social)    
