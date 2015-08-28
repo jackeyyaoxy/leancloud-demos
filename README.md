@@ -55,8 +55,6 @@ LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具。
 ![](https://img.shields.io/github/stars/leancloud/NextChat.svg?style=social)    
 NextChat = [JSQMessageViewController](https://github.com/jessesquires/JSQMessagesViewController) + LeanCloud IM SDK。JSQMessageViewController 大概是最流行的开源的 IM 界面框架了。 试试新的 UI 吧。  
 项目地址：https://github.com/leancloud/NextChat  
-截图：  
-![ios simulator screen shot 2015 5 15 11 06 21](https://cloud.githubusercontent.com/assets/5022872/7646249/79a64f52-faf3-11e4-8334-85d6585edf01.png)
 
 1. UUChatTableView+LeanCloud IM SDK   
 ![](https://img.shields.io/github/stars/lzwjava/UUChatTableView.svg?style=social)   
@@ -93,8 +91,6 @@ WukongSNS 是开发者 pgbo 做的一个类似朋友圈的 swift 项目，用了
 ![](https://img.shields.io/github/stars/leancloud/photo-wall.svg?style=social)    
 photo-wall 是用Swift写的一个照片墙应用，展示了基本的AVObject、AVFile、AVQuery的用法。   
 项目地址：https://github.com/leancloud/photo-wall     
-截图：          
-![wall](https://cloud.githubusercontent.com/assets/5022872/5719710/d9e120d4-9b55-11e4-9677-01b461b24b23.png)
 
 ## Android 
 
