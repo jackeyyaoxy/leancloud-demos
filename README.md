@@ -80,6 +80,11 @@ NextChat = [JSQMessageViewController](https://github.com/jessesquires/JSQMessage
 
 ## Swift  
 
+1. LeanStorageDemo-iOS		
+![](https://img.shields.io/github/stars/leancloud/LeanStorageDemo-iOS.svg?style=social)  	
+全面展示了 LeanCloud 的存储功能，同时有 Objective C 和 Swift 版本。重点示例了 AVObject、AVQuery、AVFile、AVUser 这几个类下的 Api，较全面。推荐。   
+项目地址：https://github.com/leancloud/LeanStorageDemo-iOS      
+
 1. WukongSNS    
 ![](https://img.shields.io/github/stars/pgbo/WukongSNS.svg?style=social)    
 WukongSNS 是开发者 pgbo 做的一个类似朋友圈的 swift 项目，用了 AVObject Array 来实现点赞、评论，AVOSCloudIM 框架来实现通知提醒功能。非常推荐。    
