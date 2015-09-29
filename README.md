@@ -14,7 +14,7 @@ LeanCloud SDK Demos 分类汇总
 对于 iOS 上的 CocoaPods 项目，请尽量试用 `pod install --no-repo-update` ，这样会大大加快 `pod install` 的速度。
 对于 Android 项目，大多数都是 Android Studio 所用的 Gradle 项目结构，导入 Eclipse 的话可能缺少某些类，请到 [SDK 下载页](https://leancloud.cn/docs/sdk_down.html)下载 SDK 手动添加依赖。
 
-Demo 分类：[iOS](https://github.com/leancloud/leancloud-demos#ios)、[Swift](https://github.com/leancloud/leancloud-demos#swift)、[Android](https://github.com/leancloud/leancloud-demos#android)、[JavaScript](https://github.com/leancloud/leancloud-demos#javascript)、[微信与云代码](https://github.com/leancloud/leancloud-demos#%E5%BE%AE%E4%BF%A1%E4%B8%8E%E4%BA%91%E4%BB%A3%E7%A0%81)、[Unity](https://github.com/leancloud/leancloud-demos#unity)、[Windows Phone](https://github.com/leancloud/leancloud-demos#windows-phone)
+Demo 分类：[iOS](https://github.com/leancloud/leancloud-demos#ios)、[Swift](https://github.com/leancloud/leancloud-demos#swift)、[Android](https://github.com/leancloud/leancloud-demos#android)、[JavaScript](https://github.com/leancloud/leancloud-demos#javascript)、[微信与云代码](https://github.com/leancloud/leancloud-demos#%E5%BE%AE%E4%BF%A1%E4%B8%8E%E4%BA%91%E4%BB%A3%E7%A0%81)、[Unity](https://github.com/leancloud/leancloud-demos#unity)、[Windows Phone](https://github.com/leancloud/leancloud-demos#windows-phone)、[PHP](https://github.com/leancloud/leancloud-demos#php)
 
 
 ## iOS
@@ -206,6 +206,14 @@ Android TodoList 小应用，涉及数据的增删改查、应用内搜索。
 
 ## JavaScript
 
+### Javascript SDK
+![](https://img.shields.io/github/stars/leancloud/javascript-sdk.svg?style=social)
+
+Javascript SDK 是开源的，里面有不少测试样例，全面而丰富，覆盖了存储功能的方方面面，首推这个来参考学习。
+
+项目地址：https://github.com/leancloud/javascript-sdk
+
+
 ### ticket-app
 ![](https://img.shields.io/github/stars/leancloud/ticket-app.svg?style=social)
 
@@ -298,3 +306,13 @@ LeanChat的后台源码，有添加好友等逻辑，展示了如何用云代码
 WP SDK 的教程
 
 项目地址：https://github.com/leancloud/windows-phone-sdk-demos
+
+## PHP
+
+### php-sdk
+![](https://img.shields.io/github/stars/leancloud/php-sdk.svg?style=social)
+
+LeanCloud 也提供了 PHP SDK，而且开源了。从此可以用世界上最好的语言来优雅使用 LeanCloud。里面有不少测试样例，都可以作为使用例子来参考。
+
+项目地址：https://github.com/leancloud/php-sdk
+
