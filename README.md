@@ -33,11 +33,11 @@ AppStore地址： [https://itunes.apple.com/cn/app/wei-zhuan/id768074220?mt=8](h
 ![image](http://a5.mzstatic.com/us/r30/Purple/v4/83/b6/4a/83b64ae6-ed48-45e5-957c-09a925bb40e3/screen568x568.jpeg)
 
 ### LZAlbum
-![](https://img.shields.io/github/stars/lzwjava/LZAlbum.svg?style=social)
+![](https://img.shields.io/github/stars/leancloud/LZAlbum.svg?style=social)
 
 LZAlbum 是 基于 LeanCloud 的朋友圈。
 
-项目地址：https://github.com/lzwjava/LZAlbum
+项目地址：https://github.com/leancloud/LZAlbum
 
 ![lzalbum](https://cloud.githubusercontent.com/assets/5022872/7646374/0bffe1a0-faf5-11e4-8f56-f0006a3425a2.jpg)
 
