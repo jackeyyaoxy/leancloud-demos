@@ -88,11 +88,11 @@ NextChat = [JSQMessageViewController](https://github.com/jessesquires/JSQMessage
 项目地址：https://github.com/leancloud/dian-ping-shang-shu
 
 ### Share
-![](https://img.shields.io/github/stars/lzwjava/Share.svg?style=social)
+![](https://img.shields.io/github/stars/leancloud/Share.svg?style=social)
 
 事件流系统的 Demo，有关注、发状态、时间线等功能。
 
-项目地址：https://github.com/lzwjava/Share
+项目地址：https://github.com/leancloud/Share
 
 ## Swift
 
