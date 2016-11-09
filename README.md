@@ -1,20 +1,8 @@
 # LeanCloud Demos
 
-LeanCloud SDK Demos 分类汇总
+这里分类汇总了 LeanCloud 平台上的官方示例程序。
 
-像著名的 [android-open-project](https://github.com/Trinea/android-open-project) ，这里分类汇总了 LeanCloud平台上的示例程序和开源应用。
-
-欢迎大家推荐使用了 LeanCloud 的开源项目，也欢迎大家开源用 LeanCloud做的小应用、练手的应用，欢迎Fork、提交PR :)
-
-[内容与编辑规范](https://github.com/leancloud/leancloud-demos/wiki/%E5%86%85%E5%AE%B9%E7%BC%96%E8%BE%91%E4%B8%8E%E8%A7%84%E8%8C%83)
-
-对于下面的项目，若想下载到本地，请直接点击 Github 上的`Download Zip`，如图所示，这样只下载最新版本。如果是 `git clone`，则可能非常慢，因为含杂很大的提交历史。某次测试两者是 1.5M:40M。
-![qq20150618-2 2x](https://cloud.githubusercontent.com/assets/5022872/8223520/4c25415a-15ab-11e5-912d-b5dab916ce86.png)
-
-或者指定 depth 参数来快速克隆到本地： `git clone https://github.com/leancloud/leancloud-demos.git --depth=1` 。
-
-对于 iOS 上的 CocoaPods 项目，请尽量试用 `pod install --no-repo-update --verbose` ，这样会大大加快 `pod install` 的速度。
-对于 Android 项目，大多数都是 Android Studio 所用的 Gradle 项目结构，导入 Eclipse 的话可能缺少某些类，请到 [SDK 下载页](https://leancloud.cn/docs/sdk_down.html)下载 SDK 手动添加依赖。
+如果要提交使用了 LeanCloud 的开源项目，请到 [awesome-leancloud](https://github.com/AwesomeLeanCloud/awesome-leancloud) 开源社区里进行提交。
 
 Demo 分类：[iOS](https://github.com/leancloud/leancloud-demos#ios)、[Swift](https://github.com/leancloud/leancloud-demos#swift)、[Android](https://github.com/leancloud/leancloud-demos#android)、[JavaScript](https://github.com/leancloud/leancloud-demos#javascript)、[微信与云代码](https://github.com/leancloud/leancloud-demos#%E5%BE%AE%E4%BF%A1%E4%B8%8E%E4%BA%91%E4%BB%A3%E7%A0%81)、[Unity](https://github.com/leancloud/leancloud-demos#unity)、[Windows Phone](https://github.com/leancloud/leancloud-demos#windows-phone)、[PHP](https://github.com/leancloud/leancloud-demos#php)
 
