@@ -143,6 +143,8 @@ ticket-app是一个工单系统，用了大部分LeanCloud上的功能。
 
 在线网站：https://ticket.avosapps.com
 
+## LeanEngine
+
 ### LeanChat 服务端
 ![](https://img.shields.io/github/stars/leancloud/leanchat-cloudcode.svg?style=social)
 
@@ -156,8 +158,6 @@ LeanChat的后台源码，有添加好友等逻辑，展示了如何用云代码
 此项目展示了 SDK 与云引擎之间的数据交互。可以学到：如何传递 AVObject 到客户端？如何用 beforeSave Hook？如何搭一个简单的 LeanEngine 框架？
 
 项目地址：https://github.com/leancloud/sdk-demo-engine
-
-## LeanEngine
 
 ### cloud-code-weixin
 ![](https://img.shields.io/github/stars/leancloud/cloud-code-weixin.svg?style=social)
