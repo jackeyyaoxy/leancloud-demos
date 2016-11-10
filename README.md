@@ -51,6 +51,13 @@ iOS 小项目，用来展示如何快速集成 LeanCloud 反馈模块
 
 项目地址：https://github.com/leancloud/ios-feedback-demo
 
+### leancloud-smsdemo-ios
+![](https://img.shields.io/github/stars/leancloud/leancloud-smsdemo-ios.svg?style=social)
+
+LeanCloud SMS Demo 是 LeanCloud 开源的一个短信 demo 程序
+
+项目地址：https://github.com/leancloud/leancloud-smsdemo-ios
+
 ## Swift
 
 ### LeanStorageDemo-iOS
@@ -158,6 +165,27 @@ LeanChat的后台源码，有添加好友等逻辑，展示了如何用云代码
 云代码接入微信的例子，利用云代码可快速搭建微信服务号的后端。
 
 项目地址：https://github.com/leancloud/cloud-code-weixin
+
+### realtime-service-demo
+![](https://img.shields.io/github/stars/leancloud/realtime-service-demo.svg?style=social)
+
+这个项目提供了利用 LeanCloud 云引擎、数据存储和实时通信服务实现一个基本的客服系统的 Demo。
+
+项目地址：https://github.com/leancloud/realtime-service-demo
+
+### leanengine-todo-demo
+![](https://img.shields.io/github/stars/leancloud/leanengine-todo-demo.svg?style=social)
+
+该项目是 LeanCloud 的 LeanEngine 示例项目，使用 Node.js 和 Express 实现。
+
+项目地址：https://github.com/leancloud/leanengine-todo-demo
+
+### leanengine-websocket-demo
+![](https://img.shields.io/github/stars/leancloud/leanengine-websocket-demo.svg?style=social)
+
+websocket 简单示例
+
+项目地址：https://github.com/leancloud/leanengine-websocket-demo
 
 ## LeanCache
 
