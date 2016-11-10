@@ -4,7 +4,7 @@
 
 如果要提交使用了 LeanCloud 的开源项目，请到 [awesome-leancloud](https://github.com/AwesomeLeanCloud/awesome-leancloud) 开源社区里进行提交。
 
-Demo 分类：[iOS](https://github.com/leancloud/leancloud-demos#ios)、[Swift](https://github.com/leancloud/leancloud-demos#swift)、[Android](https://github.com/leancloud/leancloud-demos#android)、[JavaScript](https://github.com/leancloud/leancloud-demos#javascript)、[LeanEngine](https://github.com/leancloud/leancloud-demos#leanengine)、[Unity](https://github.com/leancloud/leancloud-demos#unity)、[Windows Phone](https://github.com/leancloud/leancloud-demos#windows-phone)、[LeanCache](https://github.com/leancloud/leancloud-demos#leancache)
+Demo 分类：[iOS](https://github.com/leancloud/leancloud-demos#ios)、[Swift](https://github.com/leancloud/leancloud-demos#swift)、[Android](https://github.com/leancloud/leancloud-demos#android)、[JavaScript](https://github.com/leancloud/leancloud-demos#javascript)、[LeanEngine](https://github.com/leancloud/leancloud-demos#leanengine)、[LeanCache](https://github.com/leancloud/leancloud-demos#leancache)、[Unity](https://github.com/leancloud/leancloud-demos#unity)、[Windows Phone](https://github.com/leancloud/leancloud-demos#windows-phone)、[PHP](https://github.com/leancloud/leancloud-demos#php)、[React Native](https://github.com/leancloud/leancloud-demos#react-native)、[REST API](https://github.com/leancloud/leancloud-demos#rest-api)
 
 
 ## iOS
@@ -160,6 +160,15 @@ LeanChat的后台源码，有添加好友等逻辑，展示了如何用云代码
 
 项目地址：https://github.com/leancloud/cloud-code-weixin
 
+## LeanCache
+
+### lean-cache-demos
+![](https://img.shields.io/github/stars/leancloud/lean-cache-demos.svg?style=social)
+
+该项目是 LeanCache 的示例项目，包含了一些典型的使用场景，使用 Node.js 和 Express 实现。
+
+项目地址：https://github.com/leancloud/lean-cache-demos
+
 ## Unity
 
 ### flappy-bird-with-leancloud
@@ -178,11 +187,36 @@ WP SDK 的教程
 
 项目地址：https://github.com/leancloud/windows-phone-sdk-demos
 
-## LeanCache
+## PHP
 
-### lean-cache-demos
-![](https://img.shields.io/github/stars/leancloud/lean-cache-demos.svg?style=social)
+### slim-todo-demo
+![](https://img.shields.io/github/stars/leancloud/slim-todo-demo.svg?style=social)
 
-该项目是 LeanCache 的示例项目，包含了一些典型的使用场景，使用 Node.js 和 Express 实现。
+LeanCloud todo demo for Slim PHP Framework
 
-项目地址：https://github.com/leancloud/lean-cache-demos
+项目地址：https://github.com/leancloud/slim-todo-demo
+
+## React Native
+
+### react-native-image-upload-demo
+![](https://img.shields.io/github/stars/leancloud/react-native-image-upload-demo.svg?style=social)
+
+React Native 上传图片
+
+项目地址：https://github.com/leancloud/react-native-image-upload-demo
+
+### react-native-installation-demo
+![](https://img.shields.io/github/stars/leancloud/react-native-installation-demo.svg?style=social)
+
+本 Demo 演示了如何在 React Native for iOS 中使用 LeanCloud 的推送服务。
+
+项目地址：https://github.com/leancloud/react-native-installation-demo
+
+## REST API
+
+### LeanCloud-REST-API-Demo
+![](https://img.shields.io/github/stars/leancloud/LeanCloud-REST-API-Demo.svg?style=social)
+
+使用各种语言调用 LeanCloud REST API 的例子源码，提供给开发者参考。
+
+项目地址：https://github.com/leancloud/LeanCloud-REST-API-Demo
