@@ -4,7 +4,7 @@
 
 如果要提交使用了 LeanCloud 的开源项目，请到 [awesome-leancloud](https://github.com/AwesomeLeanCloud/awesome-leancloud) 开源社区里进行提交。
 
-Demo 分类：[iOS](https://github.com/leancloud/leancloud-demos#ios)、[Swift](https://github.com/leancloud/leancloud-demos#swift)、[Android](https://github.com/leancloud/leancloud-demos#android)、[JavaScript](https://github.com/leancloud/leancloud-demos#javascript)、[微信与云代码](https://github.com/leancloud/leancloud-demos#%E5%BE%AE%E4%BF%A1%E4%B8%8E%E4%BA%91%E4%BB%A3%E7%A0%81)、[Unity](https://github.com/leancloud/leancloud-demos#unity)、[Windows Phone](https://github.com/leancloud/leancloud-demos#windows-phone)、[LeanCache](https://github.com/leancloud/leancloud-demos#leancache)
+Demo 分类：[iOS](https://github.com/leancloud/leancloud-demos#ios)、[Swift](https://github.com/leancloud/leancloud-demos#swift)、[Android](https://github.com/leancloud/leancloud-demos#android)、[JavaScript](https://github.com/leancloud/leancloud-demos#javascript)、[LeanEngine](https://github.com/leancloud/leancloud-demos#leanengine)、[Unity](https://github.com/leancloud/leancloud-demos#unity)、[Windows Phone](https://github.com/leancloud/leancloud-demos#windows-phone)、[LeanCache](https://github.com/leancloud/leancloud-demos#leancache)
 
 
 ## iOS
@@ -22,8 +22,6 @@ Demo 分类：[iOS](https://github.com/leancloud/leancloud-demos#ios)、[Swift](
 展示了 LeanCloud 的存储功能。
 
 项目地址：https://github.com/leancloud/LeanStorageDemo-iOS
-
-![file4](https://cloud.githubusercontent.com/assets/5022872/9400930/482426f8-47fa-11e5-9cad-4763975802a1.png)
 
 ### LeanChat-iOS
 ![](https://img.shields.io/github/stars/leancloud/leanchat-ios.svg?style=social)
@@ -71,16 +69,12 @@ LeanStorageDemo-Android 涉及到基本的增删改查、子类化、用户处�
 
 项目地址：https://github.com/leancloud/LeanStorageDemo-Android
 
-![device-2015-08-26-120002](https://cloud.githubusercontent.com/assets/5022872/9485437/92c4768c-4beb-11e5-8190-c74e586c2867.png)
-
 ### LeanChat-Android
 ![](https://img.shields.io/github/stars/leancloud/leanchat-android.svg?style=social)
 
 LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具，有Android、iOS版本。后台也完全基于     LeanCloud，存储用户信息，好友关系等。
 
 项目地址：https://github.com/leancloud/leanchat-android
-
-![](https://raw.githubusercontent.com/lzwjava/plan/master/im361.png)
 
 ### LeanMessageDemo
 ![](https://img.shields.io/github/stars/leancloud/LeanMessage-Demo.svg?style=social)
@@ -157,7 +151,7 @@ LeanChat的后台源码，有添加好友等逻辑，展示了如何用云代码
 
 项目地址：https://github.com/leancloud/sdk-demo-engine
 
-## 微信与云代码
+## LeanEngine
 
 ### cloud-code-weixin
 ![](https://img.shields.io/github/stars/leancloud/cloud-code-weixin.svg?style=social)
