@@ -44,6 +44,13 @@ LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具。
 
 项目地址：https://github.com/leancloud/Share
 
+### ios-feedback-demo
+![](https://img.shields.io/github/stars/leancloud/ios-feedback-demo.svg?style=social)
+
+iOS 小项目，用来展示如何快速集成 LeanCloud 反馈模块
+
+项目地址：https://github.com/leancloud/ios-feedback-demo
+
 ## Swift
 
 ### LeanStorageDemo-iOS
@@ -105,11 +112,11 @@ LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具，有Androi
 项目地址：https://github.com/leancloud/android-sns-demo
 
 ### android-sms-demo
-![](https://img.shields.io/github/stars/leancloud/sms-demo.svg?style=social)
+![](https://img.shields.io/github/stars/leancloud/android-sms-demo.svg?style=social)
 
 短信验证码示例项目。
 
-项目地址：https://github.com/leancloud/sms-demo
+项目地址：https://github.com/leancloud/android-sms-demo
 
 ## JavaScript
 
@@ -119,14 +126,6 @@ LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具，有Androi
 本教程将模拟一个发布商品的场景，向你讲解 LeanCloud 的数据存储 LeanStorage 的核心使用方法。
 
 项目地址：https://github.com/leancloud/StorageStarted
-
-### Javascript SDK
-![](https://img.shields.io/github/stars/leancloud/javascript-sdk.svg?style=social)
-
-Javascript SDK 是开源的，里面有不少测试样例，全面而丰富，覆盖了存储功能的方方面面，首推这个来参考学习。
-
-项目地址：https://github.com/leancloud/javascript-sdk
-
 
 ### ticket-app
 ![](https://img.shields.io/github/stars/leancloud/ticket-app.svg?style=social)
@@ -171,7 +170,7 @@ LeanChat的后台源码，有添加好友等逻辑，展示了如何用云代码
 
 ## Unity
 
-### flappy-bird-with-leancloud
+### unity-sdk-demos
 ![](https://img.shields.io/github/stars/leancloud/unity-sdk-demos.svg?style=social)
 
 用LeanCloud Unity SDK 做的 flappy-bird。
