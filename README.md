@@ -4,7 +4,7 @@
 
 如果要提交使用了 LeanCloud 的开源项目，请到 [awesome-leancloud](https://github.com/AwesomeLeanCloud/awesome-leancloud) 开源社区里进行提交。
 
-Demo 分类：[iOS](https://github.com/leancloud/leancloud-demos#ios)、[Swift](https://github.com/leancloud/leancloud-demos#swift)、[Android](https://github.com/leancloud/leancloud-demos#android)、[JavaScript](https://github.com/leancloud/leancloud-demos#javascript)、[微信与云代码](https://github.com/leancloud/leancloud-demos#%E5%BE%AE%E4%BF%A1%E4%B8%8E%E4%BA%91%E4%BB%A3%E7%A0%81)、[Unity](https://github.com/leancloud/leancloud-demos#unity)、[Windows Phone](https://github.com/leancloud/leancloud-demos#windows-phone)、[LeanCache](https://github.com/leancloud/leancloud-demos#leanCache)
+Demo 分类：[iOS](https://github.com/leancloud/leancloud-demos#ios)、[Swift](https://github.com/leancloud/leancloud-demos#swift)、[Android](https://github.com/leancloud/leancloud-demos#android)、[JavaScript](https://github.com/leancloud/leancloud-demos#javascript)、[微信与云代码](https://github.com/leancloud/leancloud-demos#%E5%BE%AE%E4%BF%A1%E4%B8%8E%E4%BA%91%E4%BB%A3%E7%A0%81)、[Unity](https://github.com/leancloud/leancloud-demos#unity)、[Windows Phone](https://github.com/leancloud/leancloud-demos#windows-phone)、[LeanCache](https://github.com/leancloud/leancloud-demos#LeanCache)
 
 
 ## iOS
