@@ -136,55 +136,12 @@ ticket-app是一个工单系统，用了大部分LeanCloud上的功能。
 
 在线网站：https://ticket.avosapps.com
 
-### todolist
-![](https://img.shields.io/github/stars/leancloud/todo.svg?style=social)
-
-TodoMVC 的一个 LeanCloud 实现，涉及数据的增删改查，前端使用 JS SDK 的好例子。
-
-项目地址：https://github.com/leancloud/todo
-
-在线地址：https://todolist.avosapps.com
-
-![](http://todomvc.com/site-assets/screenshot.png)
-
-### 眼缘
-![](https://img.shields.io/github/stars/leancloud/hackthon-eye.svg?style=social)
-
-眼缘 是 LeanCloud 的工程师在一次黑客马拉松的作品，通过匹配人脸来找到等待邂逅的对象，并且可以通过人脸来登录系统，使用了 LeanCloud 云代码和 JS SDK ，Face++ SDK 。
-
-项目地址：https://github.com/leancloud/hackthon-eye
-
-在线地址：http://eye.avosapps.com/
-
-### 留言板
-![](https://img.shields.io/github/stars/killme2008/cloudcode-test.svg?style=social)
-
-留言板是一个很好的上手项目，展示了 JS SDK 的最基本的用法。
-
-项目地址：https://github.com/killme2008/cloudcode-test
-
-在线地址：https://myapp.avosapps.com
-
 ### LeanChat 服务端
 ![](https://img.shields.io/github/stars/leancloud/leanchat-cloudcode.svg?style=social)
 
 LeanChat的后台源码，有添加好友等逻辑，展示了如何用云代码作为应用后端，实现更复杂的后端逻辑。
 
 项目地址：https://github.com/leancloud/leanchat-cloudcode
-
-### cloud-code-alipay
-![](https://img.shields.io/github/stars/leancloud/cloud-code-alipay.svg?style=social)
-
-云代码接入支付宝的例子，利用云代码集成了支付宝即时到账收款的功能。
-
-项目地址：https://github.com/leancloud/cloud-code-alipay
-
-### 微转服务端
-![](https://img.shields.io/github/stars/leancloud/VZ_Server.svg?style=social)
-
-微转服务端给微转提供了部分接口，好实现较复杂的后端逻辑。
-
-项目地址：https://github.com/leancloud/VZ_Server
 
 ### skd-demo-engine
 ![](https://img.shields.io/github/stars/leancloud/sdk-demo-engine.svg?style=social)
@@ -219,13 +176,3 @@ LeanChat的后台源码，有添加好友等逻辑，展示了如何用云代码
 WP SDK 的教程
 
 项目地址：https://github.com/leancloud/windows-phone-sdk-demos
-
-## PHP
-
-### php-sdk
-![](https://img.shields.io/github/stars/leancloud/php-sdk.svg?style=social)
-
-LeanCloud 也提供了 PHP SDK，而且开源了。从此可以用世界上最好的语言来优雅使用 LeanCloud。里面有不少测试样例，都可以作为使用例子来参考。
-
-项目地址：https://github.com/leancloud/php-sdk
-
