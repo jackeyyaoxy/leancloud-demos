@@ -55,23 +55,14 @@ LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具。
 
 项目地址：https://github.com/leancloud/LeanStorageDemo-iOS
 
-### WukongSNS
-![](https://img.shields.io/github/stars/pgbo/WukongSNS.svg?style=social)
-
-WukongSNS 是开发者 pgbo 做的一个类似朋友圈的 swift 项目，用了 AVObject Array 来实现点赞、评论，AVOSCloudIM 框架来实现通知提醒功能。非常推荐。
-
-项目地址：https://github.com/pgbo/WukongSNS
-
-![wukong400](https://cloud.githubusercontent.com/assets/5022872/8989779/d819ae62-3720-11e5-8483-f0c80693c4b9.png)
-
-### photo-wall
-![](https://img.shields.io/github/stars/leancloud/photo-wall.svg?style=social)
-
-photo-wall 是用Swift写的一个照片墙应用，展示了基本的AVObject、AVFile、AVQuery的用法。
-
-项目地址：https://github.com/leancloud/photo-wall
-
 ## Android
+
+### StorageStarted
+![](https://img.shields.io/github/stars/leancloud/StorageStarted.svg?style=social)
+
+本教程将模拟一个发布商品的场景，向你讲解 LeanCloud 的数据存储 LeanStorage 的核心使用方法。
+
+项目地址：https://github.com/leancloud/StorageStarted
 
 ### LeanStorageDemo-Android
 ![](https://img.shields.io/github/stars/leancloud/LeanStorageDemo-Android.svg?style=social)
@@ -91,30 +82,12 @@ LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具，有Androi
 
 ![](https://raw.githubusercontent.com/lzwjava/plan/master/im361.png)
 
-### AnimeTaste
-![](https://img.shields.io/github/stars/daimajia/AnimeTaste.svg?style=social)
-
-AnimeTaste 是国内首个关注独立动画的网站。Android 移动版让人随时随地能观看动画。该应用曾获得[豌豆荚设计奖](http://www.wandoujia.com/award/blog/com.zhan_dui.animetaste)。其中，使用了 LeanCloud 来存储评论和用户反馈，可在 Terminal 中 `ack AVObject` 来找到相应的代码。
-
-项目地址：https://github.com/daimajia/AnimeTaste
-
-![](http://ww2.sinaimg.cn/mw690/610dc034jw1e885o9kjgzj208c0b40ty.jpg)
-
 ### LeanMessageDemo
 ![](https://img.shields.io/github/stars/leancloud/LeanMessage-Demo.svg?style=social)
 
 此项目是为了让大家能快速上手熟悉 LeanCloud IM SDK。之前推出的 LeanChat ，我们发现其中含杂了许多 UI 代码，不利于大家学习上手。因此我们推出了 LeanMessageDemo ，只有最精简的 UI、最核心的 SDK 用法。
 
 项目地址：https://github.com/leancloud/LeanMessage-Demo
-
-### android-todolist
-![](https://img.shields.io/github/stars/leancloud/android-todolist.svg?style=social)
-
-Android TodoList 小应用，涉及数据的增删改查、应用内搜索。
-
-项目地址：https://github.com/leancloud/android-todolist
-
-![img](https://raw.githubusercontent.com/lzwjava/plan/master/android-todo-360.png)
 
 ### WeShare
 ![](https://img.shields.io/github/stars/leancloud/WeShare.svg?style=social)
@@ -143,13 +116,6 @@ Android TodoList 小应用，涉及数据的增删改查、应用内搜索。
 短信验证码示例项目。
 
 项目地址：https://github.com/leancloud/sms-demo
-
-### Anytime
-![](https://img.shields.io/github/stars/LunaGao/AnyTime.svg?style=social)
-
-开发者“猫咪神“做的一个应用，有用户注册、登陆、登出和忘记密码等用户系统相关的功能。相对复杂一些的数据增删改查操作，也有消息推送。
-
-项目地址：https://github.com/LunaGao/AnyTime
 
 ## JavaScript
 
