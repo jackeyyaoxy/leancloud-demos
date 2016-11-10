@@ -119,6 +119,13 @@ LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具，有Androi
 
 ## JavaScript
 
+### StorageStarted
+![](https://img.shields.io/github/stars/leancloud/StorageStarted.svg?style=social)
+
+本教程将模拟一个发布商品的场景，向你讲解 LeanCloud 的数据存储 LeanStorage 的核心使用方法。
+
+项目地址：https://github.com/leancloud/StorageStarted
+
 ### Javascript SDK
 ![](https://img.shields.io/github/stars/leancloud/javascript-sdk.svg?style=social)
 
