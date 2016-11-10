@@ -4,7 +4,7 @@
 
 如果要提交使用了 LeanCloud 的开源项目，请到 [awesome-leancloud](https://github.com/AwesomeLeanCloud/awesome-leancloud) 开源社区里进行提交。
 
-Demo 分类：[iOS](https://github.com/leancloud/leancloud-demos#ios)、[Swift](https://github.com/leancloud/leancloud-demos#swift)、[Android](https://github.com/leancloud/leancloud-demos#android)、[JavaScript](https://github.com/leancloud/leancloud-demos#javascript)、[微信与云代码](https://github.com/leancloud/leancloud-demos#%E5%BE%AE%E4%BF%A1%E4%B8%8E%E4%BA%91%E4%BB%A3%E7%A0%81)、[Unity](https://github.com/leancloud/leancloud-demos#unity)、[Windows Phone](https://github.com/leancloud/leancloud-demos#windows-phone)、[PHP](https://github.com/leancloud/leancloud-demos#php)
+Demo 分类：[iOS](https://github.com/leancloud/leancloud-demos#ios)、[Swift](https://github.com/leancloud/leancloud-demos#swift)、[Android](https://github.com/leancloud/leancloud-demos#android)、[JavaScript](https://github.com/leancloud/leancloud-demos#javascript)、[微信与云代码](https://github.com/leancloud/leancloud-demos#%E5%BE%AE%E4%BF%A1%E4%B8%8E%E4%BA%91%E4%BB%A3%E7%A0%81)、[Unity](https://github.com/leancloud/leancloud-demos#unity)、[Windows Phone](https://github.com/leancloud/leancloud-demos#windows-phone)、[LeanCache](https://github.com/leancloud/leancloud-demos#leanCache)
 
 
 ## iOS
@@ -183,3 +183,12 @@ LeanChat的后台源码，有添加好友等逻辑，展示了如何用云代码
 WP SDK 的教程
 
 项目地址：https://github.com/leancloud/windows-phone-sdk-demos
+
+## LeanCache
+
+### lean-cache-demos
+![](https://img.shields.io/github/stars/leancloud/lean-cache-demos.svg?style=social)
+
+该项目是 LeanCache 的示例项目，包含了一些典型的使用场景，使用 Node.js 和 Express 实现。
+
+项目地址：https://github.com/leancloud/lean-cache-demos
