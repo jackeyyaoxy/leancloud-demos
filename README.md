@@ -9,25 +9,12 @@ Demo 分类：[iOS](https://github.com/leancloud/leancloud-demos#ios)、[Swift](
 
 ## iOS
 
-### 微转
-![](https://img.shields.io/github/stars/leancloud/VZ.svg?style=social)
+### StorageStarted
+![](https://img.shields.io/github/stars/leancloud/StorageStarted.svg?style=social)
 
-微转是一个基于微博的数码设备二手交易平台，后台完全基于LeanCloud。
+本教程将模拟一个发布商品的场景，向你讲解 LeanCloud 的数据存储 LeanStorage 的核心使用方法。
 
-项目地址：https://github.com/leancloud/VZ
-
-AppStore地址： [https://itunes.apple.com/cn/app/wei-zhuan/id768074220?mt=8](https://itunes.apple.com/cn/app/wei-zhuan/id768074220?mt=8)
-
-![image](http://a5.mzstatic.com/us/r30/Purple/v4/83/b6/4a/83b64ae6-ed48-45e5-957c-09a925bb40e3/screen568x568.jpeg)
-
-### LZAlbum
-![](https://img.shields.io/github/stars/leancloud/LZAlbum.svg?style=social)
-
-LZAlbum 是 基于 LeanCloud 的朋友圈。
-
-项目地址：https://github.com/leancloud/LZAlbum
-
-![lzalbum](https://cloud.githubusercontent.com/assets/5022872/7646374/0bffe1a0-faf5-11e4-8f56-f0006a3425a2.jpg)
+项目地址：https://github.com/leancloud/StorageStarted
 
 ### LeanStorageDemo-iOS
 ![](https://img.shields.io/github/stars/leancloud/LeanStorageDemo-iOS.svg?style=social)
@@ -51,29 +38,6 @@ LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具。
 此项目是为了让大家能快速上手熟悉 LeanCloud IM SDK。之前推出的 LeanChat ，我们发现其中含杂了许多 UI 代码，不利于大家学习上手。因此我们推出了 LeanMessageDemo，只有最精简的 UI、最核心的 SDK 用法。
 
 项目地址：https://github.com/leancloud/LeanMessage-Demo
-
-### NextChat
-![](https://img.shields.io/github/stars/leancloud/NextChat.svg?style=social)
-
-NextChat = [JSQMessageViewController](https://github.com/jessesquires/JSQMessagesViewController) + LeanCloud IM SDK。JSQMessageViewController 大概是最流行的开源的 IM 界面框架了。 试试新的 UI 吧。
-
-项目地址：https://github.com/leancloud/NextChat
-
-### FreeChat
-![](https://img.shields.io/github/stars/jwfing/FreeChat.svg?style=social)
-
-同样是聊天应用，不过功能完整许多，有最近对话、加入、踢人、开放对话(足球直播时很多人加入的对话，有别于普通的群聊)等功能示例。
-
-项目地址：https://github.com/jwfing/FreeChat
-
-![](https://github.com/jwfing/FreeChat/blob/master/images/%E8%81%8A%E5%A4%A9%E5%AE%A4%E8%AF%A6%E6%83%85.png)
-
-### dian-ping-shang-shu
-![](https://img.shields.io/github/stars/leancloud/dian-ping-shang-shu.svg?style=social)
-
-用LeanCloud做的商户管理的系统，用到了文件上传下载、数据增删改查、统计功能。
-
-项目地址：https://github.com/leancloud/dian-ping-shang-shu
 
 ### Share
 ![](https://img.shields.io/github/stars/leancloud/Share.svg?style=social)
