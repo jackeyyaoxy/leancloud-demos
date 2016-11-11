@@ -23,13 +23,6 @@ Demo 分类：[iOS](https://github.com/leancloud/leancloud-demos#ios)、[Swift](
 
 项目地址：https://github.com/leancloud/LeanStorageDemo-iOS
 
-### LeanChat-iOS
-![](https://img.shields.io/github/stars/leancloud/leanchat-ios.svg?style=social)
-
-LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具。
-
-项目地址：https://github.com/leancloud/leanchat-ios
-
 ### LeanMessageDemo-iOS
 ![](https://img.shields.io/github/stars/leancloud/LeanMessage-Demo.svg?style=social)
 
