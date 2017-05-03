@@ -83,13 +83,6 @@ LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具，有Androi
 
 项目地址：https://github.com/leancloud/leanchat-android
 
-### LeanMessageDemo
-![](https://img.shields.io/github/stars/leancloud/LeanMessage-Demo.svg?style=social)
-
-此项目是为了让大家能快速上手熟悉 LeanCloud IM SDK。之前推出的 LeanChat ，我们发现其中含杂了许多 UI 代码，不利于大家学习上手。因此我们推出了 LeanMessageDemo ，只有最精简的 UI、最核心的 SDK 用法。
-
-项目地址：https://github.com/leancloud/LeanMessage-Demo
-
 ### WeShare
 ![](https://img.shields.io/github/stars/leancloud/WeShare.svg?style=social)
 
