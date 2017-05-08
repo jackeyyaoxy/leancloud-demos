@@ -182,24 +182,6 @@ websocket 简单示例
 
 项目地址：https://github.com/leancloud/lean-cache-demos
 
-## Unity
-
-### unity-sdk-demos
-![](https://img.shields.io/github/stars/leancloud/unity-sdk-demos.svg?style=social)
-
-用LeanCloud Unity SDK 做的 flappy-bird。
-
-项目地址：https://github.com/leancloud/unity-sdk-demos
-
-## Windows Phone
-
-### Tutorial
-![](https://img.shields.io/github/stars/leancloud/windows-phone-sdk-demos.svg?style=social)
-
-WP SDK 的教程
-
-项目地址：https://github.com/leancloud/windows-phone-sdk-demos
-
 ## PHP
 
 ### slim-todo-demo
