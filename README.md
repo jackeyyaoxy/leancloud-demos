@@ -173,6 +173,13 @@ websocket 简单示例
 
 项目地址：https://github.com/leancloud/leanengine-websocket-demo
 
+### Python
+![](https://img.shields.io/github/stars/leancloud/flask-todo-demo.svg?style=social)
+
+Flask Todo Demo 是一个 [LeanEngine][1] 的示例项目。它运行在 Python 3 上，依赖 [flask][2] 和 [LeanCloud Python SDK][3]。你可以在 [这里][11] 查看在线 demo。
+
+项目地址：https://github.com/leancloud/flask-todo-demo
+
 ## LeanCache
 
 ### lean-cache-demos
