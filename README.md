@@ -4,7 +4,7 @@
 
 如果要提交使用了 LeanCloud 的开源项目，请到 [awesome-leancloud](https://github.com/AwesomeLeanCloud/awesome-leancloud) 开源社区里进行提交。
 
-Demo 分类：[iOS](https://github.com/leancloud/leancloud-demos#ios)、[Swift](https://github.com/leancloud/leancloud-demos#swift)、[Android](https://github.com/leancloud/leancloud-demos#android)、[JavaScript](https://github.com/leancloud/leancloud-demos#javascript)、[LeanEngine](https://github.com/leancloud/leancloud-demos#leanengine)、[LeanCache](https://github.com/leancloud/leancloud-demos#leancache)、[Unity](https://github.com/leancloud/leancloud-demos#unity)、[Windows Phone](https://github.com/leancloud/leancloud-demos#windows-phone)、[PHP](https://github.com/leancloud/leancloud-demos#php)、[React Native](https://github.com/leancloud/leancloud-demos#react-native)、[REST API](https://github.com/leancloud/leancloud-demos#rest-api)
+Demo 分类：[iOS](https://github.com/leancloud/leancloud-demos#ios)、[Swift](https://github.com/leancloud/leancloud-demos#swift)、[Android](https://github.com/leancloud/leancloud-demos#android)、[JavaScript](https://github.com/leancloud/leancloud-demos#javascript)、[LeanEngine](https://github.com/leancloud/leancloud-demos#leanengine)、[LeanCache](https://github.com/leancloud/leancloud-demos#leancache)、[Unity](https://github.com/leancloud/leancloud-demos#unity)、[Windows Phone](https://github.com/leancloud/leancloud-demos#windows-phone)、[PHP](https://github.com/leancloud/leancloud-demos#php)、[React Native](https://github.com/leancloud/leancloud-demos#react-native)、[REST API](https://github.com/leancloud/leancloud-demos#rest-api)、[Python](https://github.com/leancloud/leancloud-demos#python)
 
 
 ## iOS
@@ -173,10 +173,10 @@ websocket 简单示例
 
 项目地址：https://github.com/leancloud/leanengine-websocket-demo
 
-### Python
+## Python
 ![](https://img.shields.io/github/stars/leancloud/flask-todo-demo.svg?style=social)
 
-Flask Todo Demo 是一个 [LeanEngine][1] 的示例项目。它运行在 Python 3 上，依赖 [flask][2] 和 [LeanCloud Python SDK][3]。你可以在 [这里][11] 查看在线 demo。
+Flask Todo Demo 是一个 [LeanEngine](https://leancloud.cn/docs/leanengine_overview.html) 的示例项目。它运行在 Python 3 上，依赖 [flask](http://flask.pocoo.org) 和 [LeanCloud Python SDK](https://github.com/leancloud/python-sdk)。你可以在 [这里](https://flask-todo-demo.leanapp.cn) 查看在线 demo。
 
 项目地址：https://github.com/leancloud/flask-todo-demo
 
