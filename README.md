@@ -131,20 +131,6 @@ ticket-app是一个工单系统，用了大部分LeanCloud上的功能。
 
 ## LeanEngine
 
-### LeanChat 服务端
-![](https://img.shields.io/github/stars/leancloud/leanchat-cloudcode.svg?style=social)
-
-LeanChat的后台源码，有添加好友等逻辑，展示了如何用云代码作为应用后端，实现更复杂的后端逻辑。
-
-项目地址：https://github.com/leancloud/leanchat-cloudcode
-
-### sdk-demo-engine
-![](https://img.shields.io/github/stars/leancloud/sdk-demo-engine.svg?style=social)
-
-此项目展示了 SDK 与云引擎之间的数据交互。可以学到：如何传递 AVObject 到客户端？如何用 beforeSave Hook？如何搭一个简单的 LeanEngine 框架？
-
-项目地址：https://github.com/leancloud/sdk-demo-engine
-
 ### cloud-code-weixin
 ![](https://img.shields.io/github/stars/leancloud/cloud-code-weixin.svg?style=social)
 
@@ -152,26 +138,12 @@ LeanChat的后台源码，有添加好友等逻辑，展示了如何用云代码
 
 项目地址：https://github.com/leancloud/cloud-code-weixin
 
-### realtime-service-demo
-![](https://img.shields.io/github/stars/leancloud/realtime-service-demo.svg?style=social)
-
-这个项目提供了利用 LeanCloud 云引擎、数据存储和实时通信服务实现一个基本的客服系统的 Demo。
-
-项目地址：https://github.com/leancloud/realtime-service-demo
-
-### leanengine-todo-demo
+### leanengine-nodejs-demos
 ![](https://img.shields.io/github/stars/leancloud/leanengine-todo-demo.svg?style=social)
 
-该项目是 LeanCloud 的 LeanEngine 示例项目，使用 Node.js 和 Express 实现。
+该项目是 LeanEngine Node.js 项目的代码合集，包括了推荐的最佳实践和常用的代码片段。适合云引擎的开发者阅读、参考，也可以将代码片段复制到你的项目中使用。
 
-项目地址：https://github.com/leancloud/leanengine-todo-demo
-
-### leanengine-websocket-demo
-![](https://img.shields.io/github/stars/leancloud/leanengine-websocket-demo.svg?style=social)
-
-websocket 简单示例
-
-项目地址：https://github.com/leancloud/leanengine-websocket-demo
+项目地址：https://github.com/leancloud/leanengine-nodejs-demos
 
 ## Python
 ![](https://img.shields.io/github/stars/leancloud/flask-todo-demo.svg?style=social)
