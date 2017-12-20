@@ -76,13 +76,6 @@ LeanStorageDemo-Android 涉及到基本的增删改查、子类化、用户处�
 
 项目地址：https://github.com/leancloud/LeanStorageDemo-Android
 
-### LeanChat-Android
-![](https://img.shields.io/github/stars/leancloud/leanchat-android.svg?style=social)
-
-LeanChat 是用 LeanCloud 实时通信服务做的一个沟通工具，有Android、iOS版本。后台也完全基于     LeanCloud，存储用户信息，好友关系等。
-
-项目地址：https://github.com/leancloud/leanchat-android
-
 ### WeShare
 ![](https://img.shields.io/github/stars/leancloud/WeShare.svg?style=social)
 
